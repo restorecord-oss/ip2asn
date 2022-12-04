@@ -1,0 +1,3 @@
+range_start,range_end,AS_number,country_code,AS_description
+53.0.0.0,53.3.151.255,31399,DE,DAIMLER-AS ITTTN Global Network
+53.3.152.0,53.255.255.255,31399,DE,DAIMLER-AS ITTTN Global Network

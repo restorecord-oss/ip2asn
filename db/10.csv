@@ -1,0 +1,9 @@
+range_start,range_end,AS_number,country_code,AS_description
+10.5.51.201,10.5.51.201,33070,US,RMH-14
+10.5.51.202,10.5.51.202,0,None,Not routed
+10.5.51.203,10.5.51.203,33070,US,RMH-14
+10.5.51.204,10.59.255.255,0,None,Not routed
+10.60.0.0,10.60.1.255,65001,Unknown,AS65001
+10.60.2.0,10.61.20.119,0,None,Not routed
+10.61.20.120,10.61.20.127,65001,Unknown,AS65001
+10.61.20.128,10.255.255.255,0,None,Not routed

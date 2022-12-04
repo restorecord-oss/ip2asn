@@ -1,0 +1,2 @@
+range_start,range_end,AS_number,country_code,AS_description
+28.0.0.0,29.0.0.255,749,US,DNIC-AS-00749

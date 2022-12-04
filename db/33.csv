@@ -1,0 +1,2 @@
+range_start,range_end,AS_number,country_code,AS_description
+33.0.0.0,33.255.255.255,749,US,DNIC-AS-00749

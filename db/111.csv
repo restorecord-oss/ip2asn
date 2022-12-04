@@ -1,0 +1,1122 @@
+range_start,range_end,AS_number,country_code,AS_description
+111.0.0.0,111.0.8.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.0.9.0,111.0.19.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.0.20.0,111.0.239.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.0.240.0,111.1.18.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.1.19.0,111.1.21.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.1.22.0,111.1.143.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.1.144.0,111.1.151.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.1.152.0,111.2.31.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.2.32.0,111.2.65.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.2.66.0,111.2.84.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.2.85.0,111.2.95.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.2.96.0,111.2.199.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.2.200.0,111.2.219.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.2.220.0,111.2.253.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.2.254.0,111.3.3.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.3.4.0,111.3.11.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.3.12.0,111.3.39.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.3.40.0,111.3.59.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.3.60.0,111.3.127.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.3.128.0,111.3.191.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.3.192.0,111.3.255.255,56041,CN,CMNET-ZHEJIANG-AP China Mobile communications corporation
+111.4.0.0,111.4.37.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.4.38.0,111.4.39.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.4.40.0,111.4.63.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.4.64.0,111.4.79.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.4.80.0,111.4.103.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.4.104.0,111.4.145.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.4.146.0,111.4.192.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.4.193.0,111.4.194.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.4.195.0,111.4.196.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.4.197.0,111.4.198.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.4.199.0,111.4.200.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.4.201.0,111.4.202.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.4.203.0,111.4.208.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.4.209.0,111.4.210.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.4.211.0,111.4.212.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.4.213.0,111.4.214.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.4.215.0,111.4.216.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.4.217.0,111.4.255.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.5.0.0,111.6.75.255,24445,CN,CMNET-V4HENAN-AS-AP Henan Mobile Communications Co.,Ltd
+111.6.76.0,111.6.95.255,24445,CN,CMNET-V4HENAN-AS-AP Henan Mobile Communications Co.,Ltd
+111.6.96.0,111.6.103.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.6.104.0,111.6.119.255,24445,CN,CMNET-V4HENAN-AS-AP Henan Mobile Communications Co.,Ltd
+111.6.120.0,111.6.161.255,24445,CN,CMNET-V4HENAN-AS-AP Henan Mobile Communications Co.,Ltd
+111.6.162.0,111.6.191.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.6.192.0,111.6.199.255,24445,CN,CMNET-V4HENAN-AS-AP Henan Mobile Communications Co.,Ltd
+111.6.200.0,111.6.207.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.6.208.0,111.6.211.255,24445,CN,CMNET-V4HENAN-AS-AP Henan Mobile Communications Co.,Ltd
+111.6.212.0,111.6.255.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.7.0.0,111.7.63.255,24445,CN,CMNET-V4HENAN-AS-AP Henan Mobile Communications Co.,Ltd
+111.7.64.0,111.7.113.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.7.114.0,111.7.115.255,24445,CN,CMNET-V4HENAN-AS-AP Henan Mobile Communications Co.,Ltd
+111.7.116.0,111.7.119.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.7.120.0,111.7.131.255,24445,CN,CMNET-V4HENAN-AS-AP Henan Mobile Communications Co.,Ltd
+111.7.132.0,111.7.133.255,24445,CN,CMNET-V4HENAN-AS-AP Henan Mobile Communications Co.,Ltd
+111.7.134.0,111.7.156.255,24445,CN,CMNET-V4HENAN-AS-AP Henan Mobile Communications Co.,Ltd
+111.7.157.0,111.7.159.255,24445,CN,CMNET-V4HENAN-AS-AP Henan Mobile Communications Co.,Ltd
+111.7.160.0,111.7.191.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.7.192.0,111.7.201.255,24445,CN,CMNET-V4HENAN-AS-AP Henan Mobile Communications Co.,Ltd
+111.7.202.0,111.7.203.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.7.204.0,111.7.206.255,24445,CN,CMNET-V4HENAN-AS-AP Henan Mobile Communications Co.,Ltd
+111.7.207.0,111.7.255.255,24445,CN,CMNET-V4HENAN-AS-AP Henan Mobile Communications Co.,Ltd
+111.8.0.0,111.8.1.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.8.2.0,111.8.9.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.8.10.0,111.8.63.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.8.64.0,111.8.78.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.8.79.0,111.8.79.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.8.80.0,111.8.92.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.8.93.0,111.8.98.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.8.99.0,111.8.103.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.8.104.0,111.8.122.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.8.123.0,111.8.130.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.8.131.0,111.8.150.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.8.151.0,111.8.185.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.8.186.0,111.8.190.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.8.191.0,111.8.193.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.8.194.0,111.8.197.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.8.198.0,111.8.222.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.8.223.0,111.8.224.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.8.225.0,111.8.249.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.8.250.0,111.8.255.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.9.0.0,111.9.68.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.9.69.0,111.9.71.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.9.72.0,111.9.87.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.9.88.0,111.9.89.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.9.90.0,111.9.103.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.9.104.0,111.9.107.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.9.108.0,111.9.123.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.9.124.0,111.9.124.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.9.125.0,111.9.125.255,139080,Unknown,AS139080
+111.9.126.0,111.9.131.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.9.132.0,111.9.139.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.9.140.0,111.9.239.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.9.240.0,111.9.243.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.9.244.0,111.9.245.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.9.246.0,111.9.247.255,139080,Unknown,AS139080
+111.9.248.0,111.10.4.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.10.5.0,111.10.9.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.10.10.0,111.10.19.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.10.20.0,111.10.23.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.10.24.0,111.10.39.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.10.40.0,111.10.63.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.10.64.0,111.10.65.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.10.66.0,111.10.96.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.10.97.0,111.10.255.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.11.0.0,111.11.22.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.11.23.0,111.11.28.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.11.29.0,111.11.63.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.11.64.0,111.11.72.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.11.73.0,111.11.119.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.11.120.0,111.11.127.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.11.128.0,111.11.148.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.11.149.0,111.11.160.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.11.161.0,111.11.223.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.11.224.0,111.12.3.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.4.0,111.12.5.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.6.0,111.12.22.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.23.0,111.12.30.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.31.0,111.12.32.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.33.0,111.12.35.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.36.0,111.12.40.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.41.0,111.12.42.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.43.0,111.12.44.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.45.0,111.12.45.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.46.0,111.12.54.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.55.0,111.12.63.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.64.0,111.12.67.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.68.0,111.12.77.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.78.0,111.12.82.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.83.0,111.12.86.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.87.0,111.12.87.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.88.0,111.12.90.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.91.0,111.12.96.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.97.0,111.12.100.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.101.0,111.12.104.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.105.0,111.12.108.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.109.0,111.12.112.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.113.0,111.12.121.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.122.0,111.12.123.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.124.0,111.12.137.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.138.0,111.12.168.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.169.0,111.12.207.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.12.208.0,111.13.126.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.13.127.0,111.13.255.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.14.0.0,111.15.95.255,24444,CN,CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited
+111.15.96.0,111.15.143.255,24444,CN,CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited
+111.15.144.0,111.16.159.255,24444,CN,CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited
+111.16.160.0,111.17.95.255,24444,CN,CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited
+111.17.96.0,111.17.255.255,24444,CN,CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited
+111.18.0.0,111.18.23.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.18.24.0,111.18.63.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.18.64.0,111.18.87.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.18.88.0,111.18.91.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.18.92.0,111.18.119.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.18.120.0,111.18.123.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.18.124.0,111.18.151.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.18.152.0,111.18.183.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.18.184.0,111.18.225.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.18.226.0,111.19.15.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.19.16.0,111.19.99.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.19.100.0,111.19.143.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.19.144.0,111.19.148.255,140105,CN,CMNET-SNIDC-CN-AP Shaanxi Mobile Communication Company Limited
+111.19.149.0,111.19.149.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.19.150.0,111.19.154.255,140105,CN,CMNET-SNIDC-CN-AP Shaanxi Mobile Communication Company Limited
+111.19.155.0,111.19.253.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.19.254.0,111.20.3.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.20.4.0,111.20.15.255,140105,CN,CMNET-SNIDC-CN-AP Shaanxi Mobile Communication Company Limited
+111.20.16.0,111.20.18.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.20.19.0,111.20.31.255,140105,CN,CMNET-SNIDC-CN-AP Shaanxi Mobile Communication Company Limited
+111.20.32.0,111.20.48.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.20.49.0,111.20.50.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.20.51.0,111.20.53.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.20.54.0,111.20.56.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.20.57.0,111.20.59.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.20.60.0,111.20.97.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.20.98.0,111.20.111.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.20.112.0,111.20.209.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.20.210.0,111.20.217.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.20.218.0,111.20.222.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.20.223.0,111.20.230.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.20.231.0,111.20.232.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.20.233.0,111.20.235.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.20.236.0,111.20.240.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.20.241.0,111.20.241.255,140105,CN,CMNET-SNIDC-CN-AP Shaanxi Mobile Communication Company Limited
+111.20.242.0,111.20.247.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.20.248.0,111.20.249.255,140105,CN,CMNET-SNIDC-CN-AP Shaanxi Mobile Communication Company Limited
+111.20.250.0,111.20.253.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.20.254.0,111.20.255.255,140105,CN,CMNET-SNIDC-CN-AP Shaanxi Mobile Communication Company Limited
+111.21.0.0,111.21.9.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.21.10.0,111.21.80.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.21.81.0,111.21.85.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.21.86.0,111.21.97.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.21.98.0,111.21.116.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.21.117.0,111.21.119.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.21.120.0,111.21.121.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.21.122.0,111.21.129.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.21.130.0,111.21.137.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.21.138.0,111.21.154.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.21.155.0,111.21.157.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.21.158.0,111.21.170.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.21.171.0,111.21.203.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.21.204.0,111.21.222.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.21.223.0,111.21.255.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.22.0.0,111.22.1.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.2.0,111.22.27.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.28.0,111.22.29.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.30.0,111.22.39.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.40.0,111.22.59.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.60.0,111.22.63.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.64.0,111.22.67.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.22.68.0,111.22.72.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.73.0,111.22.76.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.77.0,111.22.92.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.93.0,111.22.96.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.97.0,111.22.104.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.105.0,111.22.107.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.108.0,111.22.110.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.111.0,111.22.115.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.116.0,111.22.120.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.121.0,111.22.121.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.122.0,111.22.128.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.129.0,111.22.146.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.147.0,111.22.149.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.150.0,111.22.154.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.155.0,111.22.187.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.188.0,111.22.200.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.201.0,111.22.220.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.221.0,111.22.233.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.22.234.0,111.23.17.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.18.0,111.23.21.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.22.0,111.23.25.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.26.0,111.23.33.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.34.0,111.23.37.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.38.0,111.23.44.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.45.0,111.23.58.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.59.0,111.23.72.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.73.0,111.23.82.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.83.0,111.23.101.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.102.0,111.23.118.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.119.0,111.23.126.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.127.0,111.23.128.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.129.0,111.23.130.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.131.0,111.23.132.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.133.0,111.23.141.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.142.0,111.23.180.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.181.0,111.23.182.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.183.0,111.23.209.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.210.0,111.23.227.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.228.0,111.23.229.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.23.230.0,111.23.241.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.23.242.0,111.23.255.255,56047,CN,CMNET-HUNAN-AP China Mobile communications corporation
+111.24.0.0,111.24.255.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.25.0.0,111.25.3.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.25.4.0,111.25.7.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.25.8.0,111.25.11.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.25.12.0,111.25.87.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.25.88.0,111.25.240.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.25.241.0,111.25.251.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.25.252.0,111.26.10.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.26.11.0,111.26.11.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.26.12.0,111.26.85.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.26.86.0,111.26.108.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.26.109.0,111.26.154.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.26.155.0,111.26.157.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.26.158.0,111.26.175.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.26.176.0,111.26.241.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.26.242.0,111.26.243.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.26.244.0,111.27.26.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.27.27.0,111.27.65.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.27.66.0,111.27.67.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.27.68.0,111.27.75.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.27.76.0,111.27.184.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.27.185.0,111.27.198.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.27.199.0,111.27.200.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.27.201.0,111.27.201.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.27.202.0,111.27.249.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.27.250.0,111.27.255.255,134810,CN,CMNET-JILIN-AS-AP China Mobile Group JiLin communications corporation
+111.28.0.0,111.28.10.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.28.11.0,111.28.235.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.28.236.0,111.29.8.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.29.9.0,111.29.47.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.29.48.0,111.29.255.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.30.0.0,111.30.127.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.30.128.0,111.30.131.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.30.132.0,111.30.134.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.30.135.0,111.30.150.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.30.151.0,111.30.167.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.30.168.0,111.30.168.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.30.169.0,111.30.187.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.30.188.0,111.30.189.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.30.190.0,111.30.191.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.30.192.0,111.30.255.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.31.0.0,111.31.23.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.31.24.0,111.31.25.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.31.26.0,111.31.27.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.31.28.0,111.31.32.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.31.33.0,111.31.34.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.31.35.0,111.31.35.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.31.36.0,111.31.63.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.31.64.0,111.31.64.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.31.65.0,111.31.75.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.31.76.0,111.31.76.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.31.77.0,111.31.79.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.31.80.0,111.31.80.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.31.81.0,111.31.87.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.31.88.0,111.31.89.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.31.90.0,111.31.123.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.31.124.0,111.31.124.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.31.125.0,111.31.127.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.31.128.0,111.31.146.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.31.147.0,111.31.167.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.31.168.0,111.31.182.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.31.183.0,111.31.199.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.31.200.0,111.31.203.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.31.204.0,111.32.127.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.32.128.0,111.32.255.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.33.0.0,111.33.28.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.33.29.0,111.33.75.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.33.76.0,111.33.110.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.33.111.0,111.33.125.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.33.126.0,111.33.142.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.33.143.0,111.33.159.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.33.160.0,111.33.167.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.33.168.0,111.33.170.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.33.171.0,111.33.188.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.33.189.0,111.33.189.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.33.190.0,111.33.255.255,38019,CN,CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited
+111.34.0.0,111.34.111.255,24444,CN,CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited
+111.34.112.0,111.37.10.255,24444,CN,CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited
+111.37.11.0,111.37.111.255,24444,CN,CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited
+111.37.112.0,111.37.143.255,24444,CN,CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited
+111.37.144.0,111.37.255.255,24444,CN,CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited
+111.38.0.0,111.39.85.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.39.86.0,111.39.223.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.39.224.0,111.39.226.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.39.227.0,111.39.255.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.40.0.0,111.40.239.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.40.240.0,111.41.41.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.41.42.0,111.41.128.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.41.129.0,111.41.132.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.41.133.0,111.41.155.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.41.156.0,111.41.165.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.41.166.0,111.41.168.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.41.169.0,111.41.172.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.41.173.0,111.41.175.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.41.176.0,111.41.191.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.41.192.0,111.41.228.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.41.229.0,111.41.239.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.41.240.0,111.42.4.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.42.5.0,111.42.120.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.42.121.0,111.42.210.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.42.211.0,111.43.1.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.43.2.0,111.43.39.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.43.40.0,111.43.122.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.43.123.0,111.43.202.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.43.203.0,111.43.222.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.43.223.0,111.43.255.255,132525,CN,CMNET-HEILONGJIANG-CN HeiLongJiang Mobile Communication Company Limited
+111.44.0.0,111.44.130.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.44.131.0,111.44.151.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.44.152.0,111.44.175.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.44.176.0,111.44.186.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.44.187.0,111.44.188.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.44.189.0,111.44.198.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.44.199.0,111.44.204.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.44.205.0,111.44.234.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.44.235.0,111.44.243.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.44.244.0,111.44.245.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.44.246.0,111.44.254.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.44.255.0,111.44.255.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.45.0.0,111.45.31.255,56040,CN,CMNET-GUANGDONG-AP China Mobile communications corporation
+111.45.32.0,111.45.35.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.45.36.0,111.45.64.255,56040,CN,CMNET-GUANGDONG-AP China Mobile communications corporation
+111.45.65.0,111.45.80.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.45.81.0,111.45.127.255,56040,CN,CMNET-GUANGDONG-AP China Mobile communications corporation
+111.45.128.0,111.45.147.255,56044,CN,CMNET-AS-LIAONING China Mobile communications corporation
+111.45.148.0,111.45.155.255,56044,CN,CMNET-AS-LIAONING China Mobile communications corporation
+111.45.156.0,111.45.163.255,56044,CN,CMNET-AS-LIAONING China Mobile communications corporation
+111.45.164.0,111.45.171.255,56044,CN,CMNET-AS-LIAONING China Mobile communications corporation
+111.45.172.0,111.45.179.255,56044,CN,CMNET-AS-LIAONING China Mobile communications corporation
+111.45.180.0,111.45.187.255,56044,CN,CMNET-AS-LIAONING China Mobile communications corporation
+111.45.188.0,111.45.195.255,56044,CN,CMNET-AS-LIAONING China Mobile communications corporation
+111.45.196.0,111.45.207.255,56044,CN,CMNET-AS-LIAONING China Mobile communications corporation
+111.45.208.0,111.45.219.255,56044,CN,CMNET-AS-LIAONING China Mobile communications corporation
+111.45.220.0,111.45.227.255,56044,CN,CMNET-AS-LIAONING China Mobile communications corporation
+111.45.228.0,111.45.235.255,56044,CN,CMNET-AS-LIAONING China Mobile communications corporation
+111.45.236.0,111.45.243.255,56044,CN,CMNET-AS-LIAONING China Mobile communications corporation
+111.45.244.0,111.45.251.255,56044,CN,CMNET-AS-LIAONING China Mobile communications corporation
+111.45.252.0,111.45.255.255,56044,CN,CMNET-AS-LIAONING China Mobile communications corporation
+111.46.0.0,111.46.132.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.46.133.0,111.46.135.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.46.136.0,111.46.163.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.46.164.0,111.46.191.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.46.192.0,111.46.215.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.46.216.0,111.46.219.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.46.220.0,111.46.232.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.46.233.0,111.46.244.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.46.245.0,111.46.247.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.46.248.0,111.47.4.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.5.0,111.47.14.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.15.0,111.47.17.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.18.0,111.47.22.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.23.0,111.47.27.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.28.0,111.47.32.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.33.0,111.47.62.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.63.0,111.47.77.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.78.0,111.47.83.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.84.0,111.47.86.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.87.0,111.47.94.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.95.0,111.47.103.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.104.0,111.47.132.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.133.0,111.47.136.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.137.0,111.47.161.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.162.0,111.47.167.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.168.0,111.47.194.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.195.0,111.47.207.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.208.0,111.47.217.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.218.0,111.47.245.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.246.0,111.47.251.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.47.252.0,111.48.39.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.48.40.0,111.48.51.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.48.52.0,111.48.86.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.48.87.0,111.48.120.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.48.121.0,111.48.166.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.48.167.0,111.48.170.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.48.171.0,111.48.178.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.48.179.0,111.48.188.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.48.189.0,111.48.215.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.48.216.0,111.48.249.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.48.250.0,111.49.49.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.49.50.0,111.49.95.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.49.96.0,111.49.129.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.49.130.0,111.49.159.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.49.160.0,111.49.195.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.49.196.0,111.49.231.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.49.232.0,111.50.6.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.50.7.0,111.50.48.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.50.49.0,111.51.11.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.51.12.0,111.51.255.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.52.0.0,111.53.67.255,56042,CN,CMNET-SHANXI-AP China Mobile communications corporation
+111.53.68.0,111.53.155.255,56042,CN,CMNET-SHANXI-AP China Mobile communications corporation
+111.53.156.0,111.53.220.255,56042,CN,CMNET-SHANXI-AP China Mobile communications corporation
+111.53.221.0,111.53.243.255,56042,CN,CMNET-SHANXI-AP China Mobile communications corporation
+111.53.244.0,111.53.255.255,56042,CN,CMNET-SHANXI-AP China Mobile communications corporation
+111.54.0.0,111.55.15.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.55.16.0,111.55.17.255,24445,CN,CMNET-V4HENAN-AS-AP Henan Mobile Communications Co.,Ltd
+111.55.18.0,111.55.23.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.55.24.0,111.55.26.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.55.27.0,111.55.40.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.55.41.0,111.55.47.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.55.48.0,111.55.48.255,56044,CN,CMNET-AS-LIAONING China Mobile communications corporation
+111.55.49.0,111.55.62.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.55.63.0,111.55.64.255,56040,CN,CMNET-GUANGDONG-AP China Mobile communications corporation
+111.55.65.0,111.55.66.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.55.67.0,111.56.12.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.56.13.0,111.56.23.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.56.24.0,111.56.31.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.56.32.0,111.56.86.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.56.87.0,111.56.88.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.56.89.0,111.57.40.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.57.41.0,111.57.233.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.57.234.0,111.58.3.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.58.4.0,111.58.7.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.58.8.0,111.58.28.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.58.29.0,111.58.36.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.58.37.0,111.58.38.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.58.39.0,111.58.47.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.58.48.0,111.58.55.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.58.56.0,111.58.69.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.58.70.0,111.58.83.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.58.84.0,111.58.119.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.58.120.0,111.58.135.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.58.136.0,111.58.139.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.58.140.0,111.58.147.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.58.148.0,111.58.181.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.58.182.0,111.58.199.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.58.200.0,111.58.219.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.58.220.0,111.58.223.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.58.224.0,111.58.233.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.58.234.0,111.59.13.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.14.0,111.59.28.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.29.0,111.59.30.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.31.0,111.59.32.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.33.0,111.59.41.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.42.0,111.59.45.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.46.0,111.59.69.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.70.0,111.59.77.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.78.0,111.59.88.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.89.0,111.59.91.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.92.0,111.59.106.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.107.0,111.59.109.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.110.0,111.59.125.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.126.0,111.59.129.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.130.0,111.59.147.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.148.0,111.59.171.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.172.0,111.59.183.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.184.0,111.59.199.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.200.0,111.59.204.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.205.0,111.59.224.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.225.0,111.59.227.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.59.228.0,111.60.59.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.60.60.0,111.60.76.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.60.77.0,111.60.99.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.60.100.0,111.60.131.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.60.132.0,111.60.175.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.60.176.0,111.60.255.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.61.0.0,111.61.99.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.61.100.0,111.61.199.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.61.200.0,111.62.3.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.62.4.0,111.62.10.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.62.11.0,111.62.20.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.62.21.0,111.62.27.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.62.28.0,111.62.49.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.62.50.0,111.62.79.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.62.80.0,111.62.122.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.62.123.0,111.62.124.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.62.125.0,111.62.174.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.62.175.0,111.62.186.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.62.187.0,111.62.236.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.62.237.0,111.62.240.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.62.241.0,111.62.242.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.62.243.0,111.62.251.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.62.252.0,111.62.254.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.62.255.0,111.63.79.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.63.80.0,111.63.81.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.63.82.0,111.63.82.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.63.83.0,111.63.84.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.63.85.0,111.63.93.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.63.94.0,111.63.94.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.63.95.0,111.63.111.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.63.112.0,111.63.118.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.63.119.0,111.63.120.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.63.121.0,111.63.122.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.63.123.0,111.63.141.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.63.142.0,111.63.166.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.63.167.0,111.63.178.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.63.179.0,111.63.180.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.63.181.0,111.63.203.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.63.204.0,111.63.208.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.63.209.0,111.63.211.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.63.212.0,111.63.237.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.63.238.0,111.63.251.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.63.252.0,111.63.255.255,24547,CN,CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited
+111.64.0.0,111.64.255.255,2510,JP,INFOWEB FUJITSU LIMITED
+111.65.0.0,111.65.30.255,0,None,Not routed
+111.65.31.0,111.65.79.255,45143,SG,SINGTELMOBILE-AS-AP SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
+111.65.80.0,111.65.99.255,0,None,Not routed
+111.65.100.0,111.65.127.255,3758,SG,SINGNET SingNet
+111.65.128.0,111.65.191.255,17573,KR,SKB-MINS-AS-KR SK Broadband Co Ltd
+111.65.192.0,111.65.223.255,9614,JP,OCT Oita Cable Telecom Co,ltd.
+111.65.224.0,111.65.239.255,56030,NZ,VOYAGERNET-AS-AP Voyager Internet Ltd.
+111.65.240.0,111.65.240.255,0,None,Not routed
+111.65.241.0,111.65.253.255,45894,VN,FPTONLINE-AS-VN FPT Online JSC
+111.65.254.0,111.65.254.255,0,None,Not routed
+111.65.255.0,111.65.255.255,45894,VN,FPTONLINE-AS-VN FPT Online JSC
+111.66.0.0,111.66.100.255,0,None,Not routed
+111.66.101.0,111.66.101.255,138449,HK,SYUNET-AS-AP SIANG YU SCIENCE AND TECHNOLOGY LIMITED
+111.66.102.0,111.66.178.255,0,None,Not routed
+111.66.179.0,111.66.179.255,24155,TW,APBW-AS-TW Asia Pacific Broadband Wireless Communications Inc
+111.66.180.0,111.66.255.255,0,None,Not routed
+111.67.0.0,111.67.6.255,55803,AU,HOSTOPIA-AU Hostopia Australia Web Pty Ltd
+111.67.7.0,111.67.31.255,55803,AU,HOSTOPIA-AU Hostopia Australia Web Pty Ltd
+111.67.32.0,111.67.35.255,17666,MY,HITACHISUNWAY Unit 13-4, Block F1
+111.67.36.0,111.67.37.255,0,None,Not routed
+111.67.38.0,111.67.39.255,17666,MY,HITACHISUNWAY Unit 13-4, Block F1
+111.67.40.0,111.67.41.255,0,None,Not routed
+111.67.42.0,111.67.47.255,17666,MY,HITACHISUNWAY Unit 13-4, Block F1
+111.67.48.0,111.67.63.255,17809,TW,VEETIME-TW-AP VEE TIME CORP.
+111.67.64.0,111.67.72.255,45786,ID,HTSNET-AS-ID PT. Hawk Teknologi Solusi
+111.67.73.0,111.67.73.255,56233,ID,ATSINDO-AS-ID PT Asia Teknologi Solusi
+111.67.74.0,111.67.75.255,45786,ID,HTSNET-AS-ID PT. Hawk Teknologi Solusi
+111.67.76.0,111.67.76.255,56233,ID,ATSINDO-AS-ID PT Asia Teknologi Solusi
+111.67.77.0,111.67.79.255,45786,ID,HTSNET-AS-ID PT. Hawk Teknologi Solusi
+111.67.80.0,111.67.81.255,55691,ID,UMN-AS-ID Universitas Multimedia Nusantara
+111.67.82.0,111.67.95.255,45786,ID,HTSNET-AS-ID PT. Hawk Teknologi Solusi
+111.67.96.0,111.67.97.255,45348,KH,CHUANWEI-AS-KH Regency Square, Complex B
+111.67.98.0,111.67.98.255,0,None,Not routed
+111.67.99.0,111.67.99.255,45348,KH,CHUANWEI-AS-KH Regency Square, Complex B
+111.67.100.0,111.67.101.255,0,None,Not routed
+111.67.102.0,111.67.103.255,45348,KH,CHUANWEI-AS-KH Regency Square, Complex B
+111.67.104.0,111.67.104.255,0,None,Not routed
+111.67.105.0,111.67.106.255,45348,KH,CHUANWEI-AS-KH Regency Square, Complex B
+111.67.107.0,111.67.107.255,0,None,Not routed
+111.67.108.0,111.67.111.255,45348,KH,CHUANWEI-AS-KH Regency Square, Complex B
+111.67.112.0,111.67.127.255,10010,JP,TOKAI TOKAI Communications Corporation
+111.67.128.0,111.67.148.255,7524,JP,HANSHIN ITEC HANKYU HANSHIN CO.,LTD.
+111.67.149.0,111.67.154.255,7524,JP,HANSHIN ITEC HANKYU HANSHIN CO.,LTD.
+111.67.155.0,111.67.191.255,7524,JP,HANSHIN ITEC HANKYU HANSHIN CO.,LTD.
+111.67.192.0,111.67.207.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.67.208.0,111.67.223.255,38676,KR,FLEXNET-AS-KR flexnetworks
+111.67.224.0,111.67.255.255,10310,US,YAHOO-1
+111.68.0.0,111.68.15.255,45753,HK,NETSEC-HK Netsec Limited
+111.68.16.0,111.68.23.255,63997,JP,TSUKAERUNET Tsukaeru.net, Web Hosting Company, Japan
+111.68.24.0,111.68.31.255,55666,ID,GMEDIA-AS-ID PT Media Sarana Data
+111.68.32.0,111.68.36.255,23944,PH,SKYBB-AS-AP SKYBroadband SKYCable Corporation
+111.68.37.0,111.68.37.255,59348,PH,SKYCABLE-AS-AP Skycable Corporation
+111.68.38.0,111.68.42.255,23944,PH,SKYBB-AS-AP SKYBroadband SKYCable Corporation
+111.68.43.0,111.68.50.255,23944,PH,SKYBB-AS-AP SKYBroadband SKYCable Corporation
+111.68.51.0,111.68.63.255,23944,PH,SKYBB-AS-AP SKYBroadband SKYCable Corporation
+111.68.64.0,111.68.70.255,138687,Unknown,AS138687
+111.68.71.0,111.68.71.255,0,None,Not routed
+111.68.72.0,111.68.72.255,138687,Unknown,AS138687
+111.68.73.0,111.68.74.255,0,None,Not routed
+111.68.75.0,111.68.76.255,138687,Unknown,AS138687
+111.68.77.0,111.68.78.255,0,None,Not routed
+111.68.79.0,111.68.80.255,138687,Unknown,AS138687
+111.68.81.0,111.68.83.255,0,None,Not routed
+111.68.84.0,111.68.84.255,138687,Unknown,AS138687
+111.68.85.0,111.68.89.255,0,None,Not routed
+111.68.90.0,111.68.90.255,138687,Unknown,AS138687
+111.68.91.0,111.68.94.255,0,None,Not routed
+111.68.95.0,111.68.95.255,138687,Unknown,AS138687
+111.68.96.0,111.68.111.255,45773,PK,HECPERN-AS-PK PERN AS Content Servie Provider, Islamabad, Pakistan
+111.68.112.0,111.68.127.255,45287,ID,VARNION-AS-ID Varnion Technology Semesta, PT
+111.68.128.0,111.68.255.255,0,None,Not routed
+111.69.0.0,111.69.20.255,23655,NZ,TWODEGREES-NZ-AS 2degrees Networks Limited
+111.69.21.0,111.69.39.255,23655,NZ,TWODEGREES-NZ-AS 2degrees Networks Limited
+111.69.40.0,111.69.51.255,23655,NZ,TWODEGREES-NZ-AS 2degrees Networks Limited
+111.69.52.0,111.69.64.255,23655,NZ,TWODEGREES-NZ-AS 2degrees Networks Limited
+111.69.65.0,111.69.68.255,23655,NZ,TWODEGREES-NZ-AS 2degrees Networks Limited
+111.69.69.0,111.69.71.255,23655,NZ,TWODEGREES-NZ-AS 2degrees Networks Limited
+111.69.72.0,111.69.199.255,23655,NZ,TWODEGREES-NZ-AS 2degrees Networks Limited
+111.69.200.0,111.69.215.255,23655,NZ,TWODEGREES-NZ-AS 2degrees Networks Limited
+111.69.216.0,111.69.255.255,23655,NZ,TWODEGREES-NZ-AS 2degrees Networks Limited
+111.70.0.0,111.70.63.255,17421,Unknown,AS17421
+111.70.64.0,111.70.255.255,0,None,Not routed
+111.71.0.0,111.71.191.255,17421,Unknown,AS17421
+111.71.192.0,111.71.192.255,0,None,Not routed
+111.71.193.0,111.71.197.255,17421,Unknown,AS17421
+111.71.198.0,111.71.207.255,0,None,Not routed
+111.71.208.0,111.71.209.255,17421,Unknown,AS17421
+111.71.210.0,111.71.211.255,0,None,Not routed
+111.71.212.0,111.71.218.255,17421,Unknown,AS17421
+111.71.219.0,111.71.219.255,0,None,Not routed
+111.71.220.0,111.71.223.255,17421,Unknown,AS17421
+111.71.224.0,111.71.224.255,0,None,Not routed
+111.71.225.0,111.71.230.255,17421,Unknown,AS17421
+111.71.231.0,111.71.239.255,0,None,Not routed
+111.71.240.0,111.71.240.255,17421,Unknown,AS17421
+111.71.241.0,111.71.241.255,0,None,Not routed
+111.71.242.0,111.71.243.255,17421,Unknown,AS17421
+111.71.244.0,111.71.247.255,0,None,Not routed
+111.71.248.0,111.71.248.255,17421,Unknown,AS17421
+111.71.249.0,111.71.253.255,0,None,Not routed
+111.71.254.0,111.71.254.255,17421,Unknown,AS17421
+111.71.255.0,111.71.255.255,0,None,Not routed
+111.72.0.0,111.74.119.255,4134,CN,CHINANET-BACKBONE No.31,Jin-rong Street
+111.74.120.0,111.74.123.255,139201,CN,CHINANET-JIANGXI-JIUJIANG-IDC Jiangxi Jiujiang IDC
+111.74.124.0,111.79.255.255,4134,CN,CHINANET-BACKBONE No.31,Jin-rong Street
+111.80.0.0,111.80.255.255,0,None,Not routed
+111.81.0.0,111.83.255.255,17421,Unknown,AS17421
+111.84.0.0,111.84.47.255,9587,TH,DTACNETWORK-TH-AP 26th Floor 3333 Moo 14 Chai Building
+111.84.48.0,111.84.51.255,24378,TH,ENGTAC-AS-TH-AP Total Access Communication PLC.
+111.84.52.0,111.84.55.255,17724,TH,DTAC-AS-TH-AP Total Access Communication PLC.
+111.84.56.0,111.84.97.255,9587,TH,DTACNETWORK-TH-AP 26th Floor 3333 Moo 14 Chai Building
+111.84.98.0,111.84.101.255,9587,TH,DTACNETWORK-TH-AP 26th Floor 3333 Moo 14 Chai Building
+111.84.102.0,111.84.111.255,9587,TH,DTACNETWORK-TH-AP 26th Floor 3333 Moo 14 Chai Building
+111.84.112.0,111.84.112.255,24378,TH,ENGTAC-AS-TH-AP Total Access Communication PLC.
+111.84.113.0,111.84.127.255,9587,TH,DTACNETWORK-TH-AP 26th Floor 3333 Moo 14 Chai Building
+111.84.128.0,111.84.136.255,24378,TH,ENGTAC-AS-TH-AP Total Access Communication PLC.
+111.84.137.0,111.84.137.255,9587,TH,DTACNETWORK-TH-AP 26th Floor 3333 Moo 14 Chai Building
+111.84.138.0,111.84.138.255,24378,TH,ENGTAC-AS-TH-AP Total Access Communication PLC.
+111.84.139.0,111.84.139.255,9587,TH,DTACNETWORK-TH-AP 26th Floor 3333 Moo 14 Chai Building
+111.84.140.0,111.84.140.255,24378,TH,ENGTAC-AS-TH-AP Total Access Communication PLC.
+111.84.141.0,111.84.141.255,9587,TH,DTACNETWORK-TH-AP 26th Floor 3333 Moo 14 Chai Building
+111.84.142.0,111.84.142.255,24378,TH,ENGTAC-AS-TH-AP Total Access Communication PLC.
+111.84.143.0,111.84.151.255,9587,TH,DTACNETWORK-TH-AP 26th Floor 3333 Moo 14 Chai Building
+111.84.152.0,111.84.152.255,24378,TH,ENGTAC-AS-TH-AP Total Access Communication PLC.
+111.84.153.0,111.84.153.255,9587,TH,DTACNETWORK-TH-AP 26th Floor 3333 Moo 14 Chai Building
+111.84.154.0,111.84.154.255,24378,TH,ENGTAC-AS-TH-AP Total Access Communication PLC.
+111.84.155.0,111.84.157.255,9587,TH,DTACNETWORK-TH-AP 26th Floor 3333 Moo 14 Chai Building
+111.84.158.0,111.84.159.255,24378,TH,ENGTAC-AS-TH-AP Total Access Communication PLC.
+111.84.160.0,111.84.175.255,9587,TH,DTACNETWORK-TH-AP 26th Floor 3333 Moo 14 Chai Building
+111.84.176.0,111.84.176.255,24378,TH,ENGTAC-AS-TH-AP Total Access Communication PLC.
+111.84.177.0,111.84.177.255,9587,TH,DTACNETWORK-TH-AP 26th Floor 3333 Moo 14 Chai Building
+111.84.178.0,111.84.181.255,17724,TH,DTAC-AS-TH-AP Total Access Communication PLC.
+111.84.182.0,111.84.185.255,9587,TH,DTACNETWORK-TH-AP 26th Floor 3333 Moo 14 Chai Building
+111.84.186.0,111.84.239.255,9587,TH,DTACNETWORK-TH-AP 26th Floor 3333 Moo 14 Chai Building
+111.84.240.0,111.84.240.255,24378,TH,ENGTAC-AS-TH-AP Total Access Communication PLC.
+111.84.241.0,111.84.248.255,9587,TH,DTACNETWORK-TH-AP 26th Floor 3333 Moo 14 Chai Building
+111.84.249.0,111.84.254.255,9587,TH,DTACNETWORK-TH-AP 26th Floor 3333 Moo 14 Chai Building
+111.84.255.0,111.84.255.255,9587,TH,DTACNETWORK-TH-AP 26th Floor 3333 Moo 14 Chai Building
+111.85.0.0,111.85.255.255,4837,CN,CHINA169-BACKBONE CHINA UNICOM China169 Backbone
+111.86.0.0,111.86.127.255,2516,JP,KDDI KDDI CORPORATION
+111.86.10.0,111.86.13.255,2516,JP,KDDI KDDI CORPORATION
+111.86.14.0,111.86.17.255,2516,JP,KDDI KDDI CORPORATION
+111.86.18.0,111.86.21.255,2516,JP,KDDI KDDI CORPORATION
+111.86.22.0,111.86.26.255,2516,JP,KDDI KDDI CORPORATION
+111.86.27.0,111.86.31.255,2516,JP,KDDI KDDI CORPORATION
+111.86.32.0,111.86.43.255,2516,JP,KDDI KDDI CORPORATION
+111.86.44.0,111.86.46.255,2516,JP,KDDI KDDI CORPORATION
+111.86.47.0,111.86.58.255,2516,JP,KDDI KDDI CORPORATION
+111.86.59.0,111.86.67.255,2516,JP,KDDI KDDI CORPORATION
+111.86.68.0,111.86.73.255,2516,JP,KDDI KDDI CORPORATION
+111.86.74.0,111.86.76.255,2516,JP,KDDI KDDI CORPORATION
+111.86.77.0,111.86.82.255,2516,JP,KDDI KDDI CORPORATION
+111.86.83.0,111.86.85.255,2516,JP,KDDI KDDI CORPORATION
+111.86.86.0,111.86.88.255,2516,JP,KDDI KDDI CORPORATION
+111.86.89.0,111.86.90.255,2516,JP,KDDI KDDI CORPORATION
+111.86.91.0,111.86.92.255,2516,JP,KDDI KDDI CORPORATION
+111.86.93.0,111.86.100.255,2516,JP,KDDI KDDI CORPORATION
+111.86.101.0,111.86.120.255,2516,JP,KDDI KDDI CORPORATION
+111.86.121.0,111.86.125.255,2516,JP,KDDI KDDI CORPORATION
+111.86.126.0,111.87.255.255,2516,JP,KDDI KDDI CORPORATION
+111.88.0.0,111.88.75.255,132165,PK,CONNECT-AS-AP Connect Communications
+111.88.76.0,111.88.77.255,0,None,Not routed
+111.88.78.0,111.88.78.255,132165,PK,CONNECT-AS-AP Connect Communications
+111.88.79.0,111.88.79.255,0,None,Not routed
+111.88.80.0,111.88.137.255,132165,PK,CONNECT-AS-AP Connect Communications
+111.88.138.0,111.88.139.255,0,None,Not routed
+111.88.140.0,111.88.143.255,132165,PK,CONNECT-AS-AP Connect Communications
+111.88.144.0,111.88.159.255,38616,PK,WORLDCALL-AS-KHI Worldcall Telecom Limited
+111.88.160.0,111.88.163.255,132165,PK,CONNECT-AS-AP Connect Communications
+111.88.164.0,111.88.171.255,0,None,Not routed
+111.88.172.0,111.88.183.255,132165,PK,CONNECT-AS-AP Connect Communications
+111.88.184.0,111.88.188.255,38616,PK,WORLDCALL-AS-KHI Worldcall Telecom Limited
+111.88.189.0,111.88.189.255,0,None,Not routed
+111.88.190.0,111.88.191.255,38616,PK,WORLDCALL-AS-KHI Worldcall Telecom Limited
+111.88.192.0,111.88.231.255,132165,PK,CONNECT-AS-AP Connect Communications
+111.88.232.0,111.88.255.255,0,None,Not routed
+111.89.0.0,111.89.255.255,2514,JP,INFOSPHERE NTT PC Communications, Inc.
+111.90.0.0,111.90.127.255,4721,JP,JCN JCOM Co., Ltd.
+111.90.128.0,111.90.142.255,45839,MY,SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd
+111.90.143.0,111.90.155.255,45839,MY,SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd
+111.90.156.0,111.90.156.255,201133,BZ,VERDINA
+111.90.157.0,111.90.157.255,55639,HK,ASIAWEB-SERVICE-HK Asia Web Service Ltd
+111.90.158.0,111.90.159.255,45839,MY,SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd
+111.90.160.0,111.90.167.255,23639,JP,NTT-BIZLINK NTT Bizlink, Inc.
+111.90.168.0,111.90.175.255,45117,IN,INPL-IN-AP Ishans Network
+111.90.176.0,111.90.191.255,38235,KH,MEKONGNET-ADC-AS-AP ANGKOR DATA COMMUNICATION
+111.90.192.0,111.90.199.255,4775,PH,GLOBE-TELECOM-AS Globe Telecoms
+111.90.200.0,111.90.213.255,132199,PH,GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc.
+111.90.214.0,111.90.229.255,4775,PH,GLOBE-TELECOM-AS Globe Telecoms
+111.90.230.0,111.90.255.255,4775,PH,GLOBE-TELECOM-AS Globe Telecoms
+111.91.0.0,111.91.0.255,38457,IN,HNS-AS-AP Honesty Net Solution I Pvt Ltd
+111.91.1.0,111.91.1.255,133982,IN,EXCITEL-AS-IN Excitel Broadband Private Limited
+111.91.2.0,111.91.3.255,38457,IN,HNS-AS-AP Honesty Net Solution I Pvt Ltd
+111.91.4.0,111.91.5.255,133982,IN,EXCITEL-AS-IN Excitel Broadband Private Limited
+111.91.6.0,111.91.8.255,38457,IN,HNS-AS-AP Honesty Net Solution I Pvt Ltd
+111.91.9.0,111.91.9.255,133982,IN,EXCITEL-AS-IN Excitel Broadband Private Limited
+111.91.10.0,111.91.22.255,38457,IN,HNS-AS-AP Honesty Net Solution I Pvt Ltd
+111.91.23.0,111.91.30.255,38457,IN,HNS-AS-AP Honesty Net Solution I Pvt Ltd
+111.91.31.0,111.91.32.255,38457,IN,HNS-AS-AP Honesty Net Solution I Pvt Ltd
+111.91.33.0,111.91.33.255,133982,IN,EXCITEL-AS-IN Excitel Broadband Private Limited
+111.91.34.0,111.91.34.255,38457,IN,HNS-AS-AP Honesty Net Solution I Pvt Ltd
+111.91.35.0,111.91.35.255,133982,IN,EXCITEL-AS-IN Excitel Broadband Private Limited
+111.91.36.0,111.91.38.255,38457,IN,HNS-AS-AP Honesty Net Solution I Pvt Ltd
+111.91.39.0,111.91.39.255,133982,IN,EXCITEL-AS-IN Excitel Broadband Private Limited
+111.91.40.0,111.91.45.255,38457,IN,HNS-AS-AP Honesty Net Solution I Pvt Ltd
+111.91.46.0,111.91.46.255,133982,IN,EXCITEL-AS-IN Excitel Broadband Private Limited
+111.91.47.0,111.91.68.255,38457,IN,HNS-AS-AP Honesty Net Solution I Pvt Ltd
+111.91.69.0,111.91.80.255,38457,IN,HNS-AS-AP Honesty Net Solution I Pvt Ltd
+111.91.81.0,111.91.82.255,38457,IN,HNS-AS-AP Honesty Net Solution I Pvt Ltd
+111.91.83.0,111.91.91.255,38457,IN,HNS-AS-AP Honesty Net Solution I Pvt Ltd
+111.91.92.0,111.91.123.255,38457,IN,HNS-AS-AP Honesty Net Solution I Pvt Ltd
+111.91.124.0,111.91.127.255,38457,IN,HNS-AS-AP Honesty Net Solution I Pvt Ltd
+111.91.128.0,111.91.143.255,23576,KR,NHN-AS-KR NAVER Cloud Corp.
+111.91.144.0,111.91.191.255,38673,Unknown,AS38673
+111.91.192.0,111.91.223.255,0,None,Not routed
+111.91.224.0,111.91.231.255,38571,IN,SBS-ISP-AS Star Broadband Services
+111.91.232.0,111.91.235.255,45896,VN,MOBIFONEGLOBAL-AS-VN Mobifone Global JSC
+111.91.236.0,111.91.239.255,131188,HK,READYSPACE-HK Global Gateway, Tsuen Wan, New Territories, Hong Kong
+111.91.240.0,111.91.255.255,10000,JP,NCM Nagasaki Cable Media Inc.
+111.92.0.0,111.92.127.255,17465,IN,ASIANET Cable ISP in India
+111.92.128.0,111.92.159.255,45814,PK,FARIYA-PK Fariya Networks Pvt. Ltd.
+111.92.160.0,111.92.161.255,0,None,Not routed
+111.92.162.0,111.92.163.255,38506,ID,PIKANET-AS-ID PT Pika Media Komunika
+111.92.164.0,111.92.164.255,23671,ID,JMN-AS-ID PT. Sarana InsanMuda Selaras
+111.92.165.0,111.92.165.255,0,None,Not routed
+111.92.166.0,111.92.166.255,23671,ID,JMN-AS-ID PT. Sarana InsanMuda Selaras
+111.92.167.0,111.92.167.255,0,None,Not routed
+111.92.168.0,111.92.169.255,23671,ID,JMN-AS-ID PT. Sarana InsanMuda Selaras
+111.92.170.0,111.92.170.255,55655,ID,SIMS-AS-ID PT. Saranainsan Mudaselaras
+111.92.171.0,111.92.173.255,0,None,Not routed
+111.92.174.0,111.92.175.255,23671,ID,JMN-AS-ID PT. Sarana InsanMuda Selaras
+111.92.176.0,111.92.177.255,38456,AU,SPEEDCAST-AU SPEEDCAST AUSTRALIA PTY LIMITED
+111.92.178.0,111.92.178.255,4913,US,NET-CPRK
+111.92.179.0,111.92.179.255,38456,AU,SPEEDCAST-AU SPEEDCAST AUSTRALIA PTY LIMITED
+111.92.180.0,111.92.183.255,56050,TH,NEW-SHINE-INTERNET-TH 134 Yenchit Road
+111.92.184.0,111.92.187.255,26658,US,HENGTONG-IDC-LLC
+111.92.188.0,111.92.191.255,9952,Unknown,AS9952
+111.92.192.0,111.92.243.255,0,None,Not routed
+111.92.244.0,111.92.247.255,38638,JP,IP-CORE Ip Core Corporation
+111.92.248.0,111.92.255.255,0,None,Not routed
+111.93.0.0,111.93.103.255,45820,IN,TTSL-MEISISP Tata Teleservices ISP AS
+111.93.104.0,111.93.104.255,0,None,Not routed
+111.93.105.0,111.93.111.255,45820,IN,TTSL-MEISISP Tata Teleservices ISP AS
+111.93.112.0,111.93.112.255,0,None,Not routed
+111.93.113.0,111.93.207.255,45820,IN,TTSL-MEISISP Tata Teleservices ISP AS
+111.93.208.0,111.93.209.255,0,None,Not routed
+111.93.210.0,111.93.211.255,45820,IN,TTSL-MEISISP Tata Teleservices ISP AS
+111.93.212.0,111.93.212.255,0,None,Not routed
+111.93.213.0,111.93.247.255,45820,IN,TTSL-MEISISP Tata Teleservices ISP AS
+111.93.248.0,111.93.248.255,0,None,Not routed
+111.93.249.0,111.93.253.255,45820,IN,TTSL-MEISISP Tata Teleservices ISP AS
+111.93.254.0,111.93.255.255,0,None,Not routed
+111.94.0.0,111.95.243.255,23700,ID,FASTNET-AS-ID Linknet-Fastnet ASN
+111.95.244.0,111.95.245.255,55794,ID,LYNX-AS-AP PT Lynx Mitra Asia
+111.95.246.0,111.95.246.255,7632,ID,LINKNET-EXCHANGE-AS-ID Linknet-Exchange ASN
+111.95.247.0,111.95.247.255,55794,ID,LYNX-AS-AP PT Lynx Mitra Asia
+111.95.248.0,111.95.249.255,55673,ID,LINKNET-IDX-AS-ID Linknet-IDX ASN
+111.95.250.0,111.95.255.255,23700,ID,FASTNET-AS-ID Linknet-Fastnet ASN
+111.96.0.0,111.111.255.255,2516,JP,KDDI KDDI CORPORATION
+111.112.0.0,111.113.255.255,4134,CN,CHINANET-BACKBONE No.31,Jin-rong Street
+111.114.0.0,111.114.67.255,4538,CN,ERX-CERNET-BKB China Education and Research Network Center
+111.114.68.0,111.114.191.255,4538,CN,ERX-CERNET-BKB China Education and Research Network Center
+111.114.192.0,111.115.119.255,4538,CN,ERX-CERNET-BKB China Education and Research Network Center
+111.115.120.0,111.115.175.255,4538,CN,ERX-CERNET-BKB China Education and Research Network Center
+111.115.176.0,111.117.159.255,4538,CN,ERX-CERNET-BKB China Education and Research Network Center
+111.117.160.0,111.117.191.255,4538,CN,ERX-CERNET-BKB China Education and Research Network Center
+111.117.192.0,111.117.255.255,4538,CN,ERX-CERNET-BKB China Education and Research Network Center
+111.118.0.0,111.118.1.255,7562,KR,HCNSEOCHO-AS-KR HCN Dongjak
+111.118.2.0,111.118.19.255,9569,KR,HCNSEOCHOCATV-AS-KR SEOCHO CABLE SYSTEMS CO., LTD.
+111.118.20.0,111.118.24.255,7562,KR,HCNSEOCHO-AS-KR HCN Dongjak
+111.118.25.0,111.118.35.255,7562,KR,HCNSEOCHO-AS-KR HCN Dongjak
+111.118.36.0,111.118.39.255,9762,KR,HCN-AS HYUNDAI COMMUNICATIONS NETWORK
+111.118.40.0,111.118.43.255,7562,KR,HCNSEOCHO-AS-KR HCN Dongjak
+111.118.44.0,111.118.45.255,9762,KR,HCN-AS HYUNDAI COMMUNICATIONS NETWORK
+111.118.46.0,111.118.47.255,9569,KR,HCNSEOCHOCATV-AS-KR SEOCHO CABLE SYSTEMS CO., LTD.
+111.118.48.0,111.118.51.255,7562,KR,HCNSEOCHO-AS-KR HCN Dongjak
+111.118.52.0,111.118.53.255,9569,KR,HCNSEOCHOCATV-AS-KR SEOCHO CABLE SYSTEMS CO., LTD.
+111.118.54.0,111.118.55.255,9762,KR,HCN-AS HYUNDAI COMMUNICATIONS NETWORK
+111.118.56.0,111.118.57.255,7562,KR,HCNSEOCHO-AS-KR HCN Dongjak
+111.118.58.0,111.118.62.255,9762,KR,HCN-AS HYUNDAI COMMUNICATIONS NETWORK
+111.118.63.0,111.118.63.255,7562,KR,HCNSEOCHO-AS-KR HCN Dongjak
+111.118.64.0,111.118.79.255,23584,KR,HYROADPUSAN-AS-KR PUSAN CABLE TV SYSTEM CO., LTD.
+111.118.80.0,111.118.95.255,9319,KR,HCNCHUNGJU-AS-KR HCN CHUNGBUK CABLE TV SYSTEMS
+111.118.96.0,111.118.111.255,10175,KR,HCNKUMHO-AS-KR Kumho Cable
+111.118.112.0,111.118.127.255,7623,KR,HCNGYEONGBUK-AS-KR Gyeongbuk Cable TV
+111.118.128.0,111.118.130.255,38623,KH,VIETTELCAMBODIA-AS-AP ISPIXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
+111.118.131.0,111.118.159.255,38623,KH,VIETTELCAMBODIA-AS-AP ISPIXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
+111.118.160.0,111.118.175.255,55803,AU,HOSTOPIA-AU Hostopia Australia Web Pty Ltd
+111.118.176.0,111.118.191.255,55470,IN,CYFUTURE-AS-IN Cyfuture India Pvt. Ltd.
+111.118.192.0,111.118.195.255,38195,AU,SUPERLOOP-AS-AP Superloop
+111.118.196.0,111.118.196.255,0,None,Not routed
+111.118.197.0,111.118.199.255,38195,AU,SUPERLOOP-AS-AP Superloop
+111.118.200.0,111.118.203.255,45110,CN,CBCNET Beijing Tian Wei Xin Tong technology corp. limited.
+111.118.204.0,111.118.205.255,45110,CN,CBCNET Beijing Tian Wei Xin Tong technology corp. limited.
+111.118.206.0,111.118.207.255,45110,CN,CBCNET Beijing Tian Wei Xin Tong technology corp. limited.
+111.118.208.0,111.118.211.255,38813,AU,EMANTRA-AS-AP Emantra Pty Ltd
+111.118.212.0,111.118.213.255,394695,US,PUBLIC-DOMAIN-REGISTRY
+111.118.214.0,111.118.215.255,394695,US,PUBLIC-DOMAIN-REGISTRY
+111.118.216.0,111.118.216.255,0,None,Not routed
+111.118.217.0,111.118.219.255,45780,AU,BROADBANDSOLUTIONS-AS-AP Broadband Solutions Pty Ltd
+111.118.220.0,111.118.223.255,56057,AU,ENTITYDATA-AU Entity Data Pty Limited
+111.118.224.0,111.118.239.255,24507,AU,FFASTFILL-NET-AU Level 29, Tower Building
+111.118.240.0,111.118.255.255,55353,IN,RPNET-AS-AP RAJESH PATEL NET SERVICES PVT. LTD.
+111.119.0.0,111.119.1.255,55429,IN,LLNW-IN Limelight Networks India
+111.119.2.0,111.119.7.255,22822,US,LLNW
+111.119.8.0,111.119.10.255,38622,AU,LLNW-AU Limelight Networks Australia
+111.119.11.0,111.119.11.255,22822,US,LLNW
+111.119.12.0,111.119.15.255,55429,IN,LLNW-IN Limelight Networks India
+111.119.16.0,111.119.17.255,22822,US,LLNW
+111.119.18.0,111.119.19.255,0,None,Not routed
+111.119.20.0,111.119.31.255,22822,US,LLNW
+111.119.32.0,111.119.36.255,24550,NP,WEBSURFERNP-AS-NP Websurfer Nepal Internet Service Provider
+111.119.37.0,111.119.39.255,24550,NP,WEBSURFERNP-AS-NP Websurfer Nepal Internet Service Provider
+111.119.40.0,111.119.47.255,141047,NP,NDSPL-AS-AP Nepal Digital Service Pvt. Ltd.
+111.119.48.0,111.119.49.255,141767,NP,CG-COMMUNICATION-AS-AP C G Communications Pvt. Ltd
+111.119.50.0,111.119.63.255,24550,NP,WEBSURFERNP-AS-NP Websurfer Nepal Internet Service Provider
+111.119.64.0,111.119.143.255,0,None,Not routed
+111.119.144.0,111.119.151.255,38342,CN,SVCNET SHANGHAI VSAT NETWORK SYSTEMS CO.,LTD
+111.119.152.0,111.119.159.255,0,None,Not routed
+111.119.160.0,111.119.167.255,132165,PK,CONNECT-AS-AP Connect Communications
+111.119.168.0,111.119.174.255,59257,PK,CMPAKLIMITED-AS-AP CMPak Limited
+111.119.175.0,111.119.175.255,138423,PK,CMPAKLIMITED-AS-ENTCORP CMPak Limited
+111.119.176.0,111.119.191.255,59257,PK,CMPAKLIMITED-AS-AP CMPak Limited
+111.119.192.0,111.119.207.255,45194,IN,SIPL-AS Syscon Infoway Pvt. Ltd.
+111.119.208.0,111.119.208.255,136334,IN,VNPL-AS Vortex Netsol Private Limited
+111.119.209.0,111.119.212.255,45194,IN,SIPL-AS Syscon Infoway Pvt. Ltd.
+111.119.213.0,111.119.213.255,136334,IN,VNPL-AS Vortex Netsol Private Limited
+111.119.214.0,111.119.236.255,45194,IN,SIPL-AS Syscon Infoway Pvt. Ltd.
+111.119.237.0,111.119.254.255,45194,IN,SIPL-AS Syscon Infoway Pvt. Ltd.
+111.119.255.0,111.119.255.255,45194,IN,SIPL-AS Syscon Infoway Pvt. Ltd.
+111.120.0.0,111.123.39.255,4134,CN,CHINANET-BACKBONE No.31,Jin-rong Street
+111.123.40.0,111.123.47.255,139462,CN,CHINANET-GY-AS CHINANET Guizhou Yilong IDC
+111.123.48.0,111.123.52.255,4134,CN,CHINANET-BACKBONE No.31,Jin-rong Street
+111.123.53.0,111.123.63.255,139203,CN,CHINANET-GUIZHOU-GUIAN-IDC Guizhou GuiAn IDC
+111.123.64.0,111.124.63.255,4134,CN,CHINANET-BACKBONE No.31,Jin-rong Street
+111.124.64.0,111.124.79.255,139203,CN,CHINANET-GUIZHOU-GUIAN-IDC Guizhou GuiAn IDC
+111.124.80.0,111.124.255.255,4134,CN,CHINANET-BACKBONE No.31,Jin-rong Street
+111.125.0.0,111.125.63.255,9614,JP,OCT Oita Cable Telecom Co,ltd.
+111.125.64.0,111.125.83.255,17639,PH,CONVERGE-AS Converge ICT Solutions Inc.
+111.125.84.0,111.125.84.255,18190,PH,WWW-PH-AP SunValley New Oriental
+111.125.85.0,111.125.97.255,17639,PH,CONVERGE-AS Converge ICT Solutions Inc.
+111.125.98.0,111.125.107.255,17639,PH,CONVERGE-AS Converge ICT Solutions Inc.
+111.125.108.0,111.125.111.255,137226,PH,ACCTN-AS-AP ANGELES CITY CABLE TELEVISION NETWORK, INC.
+111.125.112.0,111.125.117.255,17639,PH,CONVERGE-AS Converge ICT Solutions Inc.
+111.125.118.0,111.125.119.255,17639,PH,CONVERGE-AS Converge ICT Solutions Inc.
+111.125.120.0,111.125.123.255,137226,PH,ACCTN-AS-AP ANGELES CITY CABLE TELEVISION NETWORK, INC.
+111.125.124.0,111.125.126.255,17639,PH,CONVERGE-AS Converge ICT Solutions Inc.
+111.125.127.0,111.125.127.255,17639,PH,CONVERGE-AS Converge ICT Solutions Inc.
+111.125.128.0,111.125.135.255,131584,TW,TAIFO-AS-TW Taiwan Intelligent Fiber Optic Network Co.,Ltd.
+111.125.136.0,111.125.143.255,45232,IN,SISPL-AS-AP Spacenet Internet Services Pvt. Ltd.
+111.125.144.0,111.125.151.255,18134,JP,KITANET JCOM Co., Ltd.
+111.125.152.0,111.125.159.255,45178,AF,ROSHAN-AF Main Street, House No. 13 Wazir Akbar Khan
+111.125.160.0,111.125.162.255,45577,AU,INTERVOLVE-MELBOURNE-AS-AP Intervolve Pty Ltd
+111.125.163.0,111.125.165.255,45577,AU,INTERVOLVE-MELBOURNE-AS-AP Intervolve Pty Ltd
+111.125.166.0,111.125.167.255,0,None,Not routed
+111.125.168.0,111.125.175.255,45577,AU,INTERVOLVE-MELBOURNE-AS-AP Intervolve Pty Ltd
+111.125.176.0,111.125.176.255,0,None,Not routed
+111.125.177.0,111.125.178.255,7551,AU,CLOUDCENTRAL-AS-AP Cloud Central Pty Ltd
+111.125.179.0,111.125.180.255,0,None,Not routed
+111.125.181.0,111.125.181.255,7551,AU,CLOUDCENTRAL-AS-AP Cloud Central Pty Ltd
+111.125.182.0,111.125.183.255,0,None,Not routed
+111.125.184.0,111.125.185.255,7551,AU,CLOUDCENTRAL-AS-AP Cloud Central Pty Ltd
+111.125.186.0,111.125.191.255,0,None,Not routed
+111.125.192.0,111.125.193.255,45648,IN,BELLTELE-AS-IN Bell Teleservices India Pvt Ltd., ISP having own OFC network in Bangalore, India.
+111.125.194.0,111.125.195.255,45117,IN,INPL-IN-AP Ishans Network
+111.125.196.0,111.125.199.255,132453,IN,TRIPLE-PLAY-IN TRIPLE PLAY BROADBAND PRIVATE LIMITED
+111.125.200.0,111.125.207.255,45648,IN,BELLTELE-AS-IN Bell Teleservices India Pvt Ltd., ISP having own OFC network in Bangalore, India.
+111.125.208.0,111.125.211.255,45769,IN,DVOIS-IN D-Vois Broadband Pvt Ltd
+111.125.212.0,111.125.212.255,45648,IN,BELLTELE-AS-IN Bell Teleservices India Pvt Ltd., ISP having own OFC network in Bangalore, India.
+111.125.213.0,111.125.213.255,45769,IN,DVOIS-IN D-Vois Broadband Pvt Ltd
+111.125.214.0,111.125.215.255,0,None,Not routed
+111.125.216.0,111.125.216.255,45769,IN,DVOIS-IN D-Vois Broadband Pvt Ltd
+111.125.217.0,111.125.219.255,55352,IN,MCPL-IN Microscan Computers Private Limited
+111.125.220.0,111.125.221.255,45769,IN,DVOIS-IN D-Vois Broadband Pvt Ltd
+111.125.222.0,111.125.223.255,0,None,Not routed
+111.125.224.0,111.125.224.255,55352,IN,MCPL-IN Microscan Computers Private Limited
+111.125.225.0,111.125.225.255,133001,IN,AIRNETNETWORKS-AS-IN Airnet Cable And Datacom Pvt Ltd
+111.125.226.0,111.125.226.255,55352,IN,MCPL-IN Microscan Computers Private Limited
+111.125.227.0,111.125.227.255,45769,IN,DVOIS-IN D-Vois Broadband Pvt Ltd
+111.125.228.0,111.125.228.255,55352,IN,MCPL-IN Microscan Computers Private Limited
+111.125.229.0,111.125.232.255,45769,IN,DVOIS-IN D-Vois Broadband Pvt Ltd
+111.125.233.0,111.125.233.255,55352,IN,MCPL-IN Microscan Computers Private Limited
+111.125.234.0,111.125.235.255,45769,IN,DVOIS-IN D-Vois Broadband Pvt Ltd
+111.125.236.0,111.125.236.255,24554,IN,FIVE-NET-AS-IN Fivenetwork Solution India Pvt Ltd Internet
+111.125.237.0,111.125.238.255,45769,IN,DVOIS-IN D-Vois Broadband Pvt Ltd
+111.125.239.0,111.125.239.255,0,None,Not routed
+111.125.240.0,111.125.240.255,45769,IN,DVOIS-IN D-Vois Broadband Pvt Ltd
+111.125.241.0,111.125.242.255,24554,IN,FIVE-NET-AS-IN Fivenetwork Solution India Pvt Ltd Internet
+111.125.243.0,111.125.243.255,45769,IN,DVOIS-IN D-Vois Broadband Pvt Ltd
+111.125.244.0,111.125.244.255,132137,IN,SOIPL-IN Shree Omkar Infocom Pvt Ltd
+111.125.245.0,111.125.245.255,45769,IN,DVOIS-IN D-Vois Broadband Pvt Ltd
+111.125.246.0,111.125.246.255,0,None,Not routed
+111.125.247.0,111.125.247.255,133717,IN,KOREDIGITAL-AS KORE DIGITAL
+111.125.248.0,111.125.248.255,45769,IN,DVOIS-IN D-Vois Broadband Pvt Ltd
+111.125.249.0,111.125.249.255,24554,IN,FIVE-NET-AS-IN Fivenetwork Solution India Pvt Ltd Internet
+111.125.250.0,111.125.251.255,45117,IN,INPL-IN-AP Ishans Network
+111.125.252.0,111.125.255.255,55352,IN,MCPL-IN Microscan Computers Private Limited
+111.126.0.0,111.127.255.255,4134,CN,CHINANET-BACKBONE No.31,Jin-rong Street
+111.128.0.0,111.128.255.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.129.0.0,111.131.255.255,9394,CN,CTTNET China TieTong Telecommunications Corporation
+111.132.0.0,111.132.9.255,24138,CN,CTTNET China TieTong Telecommunications Corporation
+111.132.10.0,111.132.47.255,24138,CN,CTTNET China TieTong Telecommunications Corporation
+111.132.48.0,111.132.255.255,24138,CN,CTTNET China TieTong Telecommunications Corporation
+111.133.0.0,111.136.255.255,9394,CN,CTTNET China TieTong Telecommunications Corporation
+111.137.0.0,111.137.79.255,38341,CN,HCENET HEXIE Information technology Co., Ltd.
+111.137.80.0,111.137.207.255,38341,CN,HCENET HEXIE Information technology Co., Ltd.
+111.137.208.0,111.137.223.255,38341,CN,HCENET HEXIE Information technology Co., Ltd.
+111.137.224.0,111.137.255.255,38341,CN,HCENET HEXIE Information technology Co., Ltd.
+111.138.0.0,111.141.255.255,9394,CN,CTTNET China TieTong Telecommunications Corporation
+111.142.0.0,111.147.255.255,9808,CN,CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.
+111.148.0.0,111.148.11.255,38370,CN,CTTNET China TieTong Telecommunications Corporation
+111.148.12.0,111.148.43.255,38370,CN,CTTNET China TieTong Telecommunications Corporation
+111.148.44.0,111.148.71.255,38370,CN,CTTNET China TieTong Telecommunications Corporation
+111.148.72.0,111.148.79.255,9394,CN,CTTNET China TieTong Telecommunications Corporation
+111.148.80.0,111.148.255.255,38370,CN,CTTNET China TieTong Telecommunications Corporation
+111.149.0.0,111.151.255.255,0,None,Not routed
+111.152.0.0,111.155.255.255,9394,CN,CTTNET China TieTong Telecommunications Corporation
+111.156.0.0,111.159.255.255,9394,CN,CTTNET China TieTong Telecommunications Corporation
+111.160.0.0,111.160.61.255,4837,CN,CHINA169-BACKBONE CHINA UNICOM China169 Backbone
+111.160.62.0,111.167.255.255,4837,CN,CHINA169-BACKBONE CHINA UNICOM China169 Backbone
+111.168.0.0,111.169.255.255,2518,JP,BIGLOBE BIGLOBE Inc.
+111.170.0.0,111.170.255.255,4134,CN,CHINANET-BACKBONE No.31,Jin-rong Street
+111.171.0.0,111.171.107.255,38109,KR,SKB-TCNINTERNET-AS-KR SK Broadband Co Ltd
+111.171.108.0,111.171.109.255,17573,KR,SKB-MINS-AS-KR SK Broadband Co Ltd
+111.171.110.0,111.171.127.255,38109,KR,SKB-TCNINTERNET-AS-KR SK Broadband Co Ltd
+111.171.128.0,111.171.255.255,2510,JP,INFOWEB FUJITSU LIMITED
+111.172.0.0,111.172.203.255,4134,CN,CHINANET-BACKBONE No.31,Jin-rong Street
+111.172.204.0,111.172.204.255,138982,CN,CHINANET-HUBEI-JIANGXIA-IDC Hubei Jiangxia IDC
+111.172.205.0,111.172.223.255,4134,CN,CHINANET-BACKBONE No.31,Jin-rong Street
+111.172.224.0,111.172.255.255,138982,CN,CHINANET-HUBEI-JIANGXIA-IDC Hubei Jiangxia IDC
+111.173.0.0,111.173.255.255,4134,CN,CHINANET-BACKBONE No.31,Jin-rong Street
+111.174.0.0,111.174.15.255,136194,CN,CHINATELECOM-HUBEI-HUANGSHI-IDC Huangshi, Hubei Province, P.R.China.
+111.174.16.0,111.174.59.255,4134,CN,CHINANET-BACKBONE No.31,Jin-rong Street
+111.174.60.0,111.174.63.255,136194,CN,CHINATELECOM-HUBEI-HUANGSHI-IDC Huangshi, Hubei Province, P.R.China.
+111.174.64.0,111.176.255.255,4134,CN,CHINANET-BACKBONE No.31,Jin-rong Street
+111.177.0.0,111.177.47.255,136192,CN,CHINATELECOM-HUBEI-XIANGYANG-IDC Xiangyang, Hubei Province, P.R.China.
+111.177.48.0,111.183.255.255,4134,CN,CHINANET-BACKBONE No.31,Jin-rong Street
+111.181.0.0,111.181.255.255,131285,Unknown,AS131285
+111.182.0.0,111.182.255.255,4134,CN,CHINANET-BACKBONE No.31,Jin-rong Street
+111.183.0.0,111.183.255.255,131285,Unknown,AS131285
+111.184.0.0,111.185.111.255,9416,TW,MULTIMEDIA-AS-AP Hoshin Multimedia Center Inc.
+111.185.112.0,111.185.255.255,9416,TW,MULTIMEDIA-AS-AP Hoshin Multimedia Center Inc.
+111.186.0.0,111.187.255.255,4538,CN,ERX-CERNET-BKB China Education and Research Network Center
+111.186.200.0,111.187.127.255,4538,CN,ERX-CERNET-BKB China Education and Research Network Center
+111.187.128.0,111.187.195.255,4538,CN,ERX-CERNET-BKB China Education and Research Network Center
+111.187.196.0,111.187.255.255,4538,CN,ERX-CERNET-BKB China Education and Research Network Center
+111.188.0.0,111.191.255.255,17676,JP,GIGAINFRA Softbank BB Corp.
+111.192.0.0,111.194.23.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.194.24.0,111.200.175.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.200.176.0,111.201.147.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.201.148.0,111.202.57.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.202.58.0,111.202.147.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.202.148.0,111.202.241.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.202.242.0,111.202.242.255,4837,CN,CHINA169-BACKBONE CHINA UNICOM China169 Backbone
+111.202.243.0,111.202.243.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.202.244.0,111.202.244.255,4837,CN,CHINA169-BACKBONE CHINA UNICOM China169 Backbone
+111.202.245.0,111.202.245.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.202.246.0,111.202.246.255,4837,CN,CHINA169-BACKBONE CHINA UNICOM China169 Backbone
+111.202.247.0,111.202.250.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.202.251.0,111.203.26.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.203.27.0,111.203.27.255,4837,CN,CHINA169-BACKBONE CHINA UNICOM China169 Backbone
+111.203.28.0,111.205.37.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.205.38.0,111.205.38.255,4837,CN,CHINA169-BACKBONE CHINA UNICOM China169 Backbone
+111.205.39.0,111.205.41.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.205.42.0,111.205.103.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.205.104.0,111.205.241.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.205.242.0,111.205.242.255,4837,CN,CHINA169-BACKBONE CHINA UNICOM China169 Backbone
+111.205.243.0,111.207.0.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.207.1.0,111.207.3.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.207.4.0,111.207.135.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.207.136.0,111.207.255.255,4808,CN,CHINA169-BJ China Unicom Beijing Province Network
+111.208.0.0,111.211.255.255,0,None,Not routed
+111.212.0.0,111.215.255.255,9812,CN,CNNIC-CN-COLNET Oriental Cable Network Co., Ltd.
+111.216.0.0,111.216.31.255,2527,JP,SO-NET Sony Network Communications Inc.
+111.216.32.0,111.216.43.255,2527,JP,SO-NET Sony Network Communications Inc.
+111.216.44.0,111.216.47.255,2527,JP,SO-NET Sony Network Communications Inc.
+111.216.48.0,111.216.67.255,2527,JP,SO-NET Sony Network Communications Inc.
+111.216.68.0,111.216.103.255,2527,JP,SO-NET Sony Network Communications Inc.
+111.216.104.0,111.216.143.255,2527,JP,SO-NET Sony Network Communications Inc.
+111.216.144.0,111.216.181.255,2527,JP,SO-NET Sony Network Communications Inc.
+111.216.182.0,111.217.67.255,2527,JP,SO-NET Sony Network Communications Inc.
+111.217.68.0,111.217.141.255,2527,JP,SO-NET Sony Network Communications Inc.
+111.217.142.0,111.217.209.255,2527,JP,SO-NET Sony Network Communications Inc.
+111.217.210.0,111.217.219.255,2527,JP,SO-NET Sony Network Communications Inc.
+111.217.220.0,111.217.247.255,2527,JP,SO-NET Sony Network Communications Inc.
+111.217.248.0,111.217.255.255,2527,JP,SO-NET Sony Network Communications Inc.
+111.218.0.0,111.218.71.255,9644,Unknown,AS9644
+111.218.72.0,111.218.255.255,9644,Unknown,AS9644
+111.219.0.0,111.219.255.255,18302,KR,SKG_NW-AS-KR SK Telecom
+111.220.0.0,111.220.255.255,9443,AU,VOCUS-RETAIL-AU Vocus Retail
+111.221.0.0,111.221.7.255,38031,BD,OPTIMAX-BD-AS-AP OptiMax Communication Ltd.
+111.221.8.0,111.221.15.255,0,None,Not routed
+111.221.16.0,111.221.27.255,8075,US,MICROSOFT-CORP-MSN-AS-BLOCK
+111.221.28.0,111.221.28.255,59067,CN,MMAISNET Microsoft Mobile Alliance Internet Services Co., Ltd
+111.221.29.0,111.221.31.255,8075,US,MICROSOFT-CORP-MSN-AS-BLOCK
+111.221.32.0,111.221.39.255,45396,KR,LLNW-AS-KR Limelight Networks Korea Ltd
+111.221.40.0,111.221.43.255,45713,ID,DETELNETWORKS-ID PT. DEWATA TELEMATIKA
+111.221.44.0,111.221.47.255,38001,SG,NEWMEDIAEXPRESS-AS-AP NewMedia Express Pte Ltd
+111.221.48.0,111.221.54.255,38278,MY,OTSB-AS-AP Orient Telecoms Sdn. Bhd
+111.221.55.0,111.221.55.255,38278,MY,OTSB-AS-AP Orient Telecoms Sdn. Bhd
+111.221.56.0,111.221.59.255,24245,AU,PNAPSYD001-AS-AP Internap Network Services
+111.221.60.0,111.221.63.255,0,None,Not routed
+111.221.64.0,111.221.127.255,8075,US,MICROSOFT-CORP-MSN-AS-BLOCK
+111.221.128.0,111.222.255.255,17962,CN,TOPWAY-NET ShenZhen Topway Video Communication Co. Ltd
+111.223.0.0,111.223.3.255,133989,IN,SBRTELECOM-AS SBR Telecom Pvt. Ltd
+111.223.4.0,111.223.7.255,0,None,Not routed
+111.223.8.0,111.223.11.255,109,US,CISCOSYSTEMS
+111.223.12.0,111.223.23.255,0,None,Not routed
+111.223.24.0,111.223.25.255,17665,IN,ONEBROADBAND ONEOTT INTERTAINMENT LIMITED
+111.223.26.0,111.223.27.255,134026,IN,ULTRANET-AS Ultranet services private limited
+111.223.28.0,111.223.31.255,135031,IN,RNPL-AS-AP RI Networks Pvt. Ltd.
+111.223.32.0,111.223.39.255,23884,TH,PROENNET-AS Proen Corp Public Company Limited.
+111.223.40.0,111.223.40.195,23884,TH,PROENNET-AS Proen Corp Public Company Limited.
+111.223.40.196,111.223.42.254,23884,TH,PROENNET-AS Proen Corp Public Company Limited.
+111.223.42.255,111.223.55.255,23884,TH,PROENNET-AS Proen Corp Public Company Limited.
+111.223.56.0,111.223.63.255,23884,TH,PROENNET-AS Proen Corp Public Company Limited.
+111.223.64.0,111.223.69.255,4657,SG,STARHUB-INTERNET StarHub Ltd
+111.223.70.0,111.223.127.255,4657,SG,STARHUB-INTERNET StarHub Ltd
+111.223.128.0,111.223.168.255,18001,LK,DIALOG-AS Dialog Axiata PLC.
+111.223.169.0,111.223.191.255,18001,LK,DIALOG-AS Dialog Axiata PLC.
+111.223.192.0,111.223.223.255,56291,JP,ACE-AS-AP Ace, Inc.
+111.223.224.0,111.223.225.115,38880,AU,M21-AS-AP Micron21 Datacentre Pty Ltd
+111.223.225.116,111.223.229.255,38880,AU,M21-AS-AP Micron21 Datacentre Pty Ltd
+111.223.230.0,111.223.239.255,38880,AU,M21-AS-AP Micron21 Datacentre Pty Ltd
+111.223.240.0,111.223.243.255,0,None,Not routed
+111.223.244.0,111.223.247.255,64050,SG,BCPL-SG BGPNET Global ASN
+111.223.248.0,111.223.251.255,0,None,Not routed
+111.223.252.0,111.223.255.255,46044,ID,UNPAD-AS-ID Universitas Padjadjaran
+111.224.0.0,111.227.255.255,4134,CN,CHINANET-BACKBONE No.31,Jin-rong Street
+111.225.208.0,111.225.223.255,58539,CN,CHINATELECOM-HEBEI-LANGFANG-IDC Langfang,Hebei province, P.R.China
+111.225.224.0,111.227.255.255,4134,CN,CHINANET-BACKBONE No.31,Jin-rong Street
+111.228.0.0,111.228.255.255,0,None,Not routed
+111.229.0.0,111.231.189.255,45090,CN,TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited
+111.231.190.0,111.231.255.255,45090,CN,TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited
+111.232.0.0,111.234.47.255,10013,JP,FBDC FreeBit Co.,Ltd.
+111.234.48.0,111.234.51.255,0,None,Not routed
+111.234.52.0,111.234.111.255,10013,JP,FBDC FreeBit Co.,Ltd.
+111.234.112.0,111.234.127.255,0,None,Not routed
+111.234.128.0,111.234.191.255,4685,JP,ASAHI-NET Asahi Net
+111.234.192.0,111.234.223.255,0,None,Not routed
+111.234.224.0,111.234.239.255,10013,JP,FBDC FreeBit Co.,Ltd.
+111.234.240.0,111.234.255.255,0,None,Not routed
+111.235.0.0,111.235.31.255,10013,JP,FBDC FreeBit Co.,Ltd.
+111.235.32.0,111.235.39.255,0,None,Not routed
+111.235.40.0,111.235.43.255,10013,JP,FBDC FreeBit Co.,Ltd.
+111.235.44.0,111.235.47.255,0,None,Not routed
+111.235.48.0,111.235.63.255,10013,JP,FBDC FreeBit Co.,Ltd.
+111.235.64.0,111.235.67.255,18002,IN,WORLDPHONE-IN AS Number for Interdomain Routing
+111.235.68.0,111.235.68.255,132215,IN,POWERGRID-IN Power Grid Corporation of India Limited
+111.235.69.0,111.235.71.255,0,None,Not routed
+111.235.72.0,111.235.75.255,131215,IN,SANCHARONLINE-IN 116 MADHAV DARSHAN
+111.235.76.0,111.235.79.255,45676,JP,SBIT SBI Security Solutions Co., Ltd.
+111.235.80.0,111.235.83.255,45499,Unknown,AS45499
+111.235.84.0,111.235.91.255,45499,Unknown,AS45499
+111.235.92.0,111.235.95.255,45499,Unknown,AS45499
+111.235.96.0,111.235.127.255,0,None,Not routed
+111.235.128.0,111.235.131.255,134181,AU,DGEWIN-AS-AP Tas Communications Pty Ltd
+111.235.132.0,111.235.135.255,55303,PH,EAGLENET-AP 60 Market Square,P.O. Box 364
+111.235.136.0,111.235.139.255,38719,Unknown,AS38719
+111.235.140.0,111.235.143.255,135060,AU,TELAIRPTYLTD-AS-AP Telair Pty Ltd
+111.235.144.0,111.235.147.255,0,None,Not routed
+111.235.148.0,111.235.151.255,131463,IN,STN-COMM5-IN STN COMMUNICATION & ADVERTISING PVT LTD
+111.235.152.0,111.235.155.255,38580,HK,IDT-AP 520 Broad Street
+111.235.156.0,111.235.159.255,58519,CN,CHINATELECOM-CTCLOUD Cloud Computing Corporation
+111.235.160.0,111.235.161.255,58448,CN,AP-CONAC-AS-AP CONAC China Organizational Name Administration Center
+111.235.162.0,111.235.165.255,58536,CN,AP-CONAC-AS-AP CONAC China Organizational Name Administration Center
+111.235.166.0,111.235.167.255,0,None,Not routed
+111.235.168.0,111.235.169.255,58536,CN,AP-CONAC-AS-AP CONAC China Organizational Name Administration Center
+111.235.170.0,111.235.171.255,58811,CN,AP-CONAC-AS-AP CONAC China Organizational Name Administration Center
+111.235.172.0,111.235.174.255,58536,CN,AP-CONAC-AS-AP CONAC China Organizational Name Administration Center
+111.235.175.0,111.235.177.255,0,None,Not routed
+111.235.178.0,111.235.178.255,58448,CN,AP-CONAC-AS-AP CONAC China Organizational Name Administration Center
+111.235.179.0,111.235.179.255,0,None,Not routed
+111.235.180.0,111.235.182.255,58811,CN,AP-CONAC-AS-AP CONAC China Organizational Name Administration Center
+111.235.183.0,111.235.191.255,0,None,Not routed
+111.235.192.0,111.235.255.255,131584,TW,TAIFO-AS-TW Taiwan Intelligent Fiber Optic Network Co.,Ltd.
+111.236.0.0,111.239.255.255,2516,JP,KDDI KDDI CORPORATION
+111.240.0.0,111.255.255.255,3462,TW,HINET Data Communication Business Group

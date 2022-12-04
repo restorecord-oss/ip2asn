@@ -1,0 +1,11 @@
+range_start,range_end,AS_number,country_code,AS_description
+19.12.16.0,19.12.23.255,28729,GB,FORD-AS
+19.12.24.0,19.12.31.255,0,None,Not routed
+19.12.32.0,19.12.35.255,10146,Unknown,AS10146
+19.12.36.0,19.12.51.255,0,None,Not routed
+19.12.52.0,19.12.55.255,10146,Unknown,AS10146
+19.12.56.0,19.12.71.255,0,None,Not routed
+19.12.72.0,19.12.79.255,3389,US,FORDSRL-AS
+19.12.80.0,19.12.87.255,0,None,Not routed
+19.12.88.0,19.12.143.255,3389,US,FORDSRL-AS
+19.12.144.0,19.255.255.255,0,None,Not routed

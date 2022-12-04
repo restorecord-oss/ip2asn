@@ -1,0 +1,358 @@
+range_start,range_end,AS_number,country_code,AS_description
+133.0.0.0,133.0.255.255,0,None,Not routed
+133.1.0.0,133.1.255.255,4730,JP,ODINS Osaka University
+133.2.0.0,133.2.255.255,17523,JP,AOYAMA Aoyama Gakuin University
+133.3.0.0,133.3.255.255,2504,JP,NCA5 Kyoto University
+133.4.0.0,133.4.63.255,55384,JP,JAIST-EXP Japan Advanced Institute of Science and Technology
+133.4.64.0,133.4.127.255,0,None,Not routed
+133.4.128.0,133.4.191.255,2500,JP,WIDE-BB WIDE Project
+133.4.192.0,133.4.255.255,0,None,Not routed
+133.5.0.0,133.5.255.255,2508,JP,KYUSHU-U Kyushu University
+133.6.0.0,133.6.255.255,17687,JP,NICE National University Corporation Nagoya University
+133.7.0.0,133.8.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.9.0.0,133.9.255.255,17956,JP,WASEDA WASEDA University
+133.10.0.0,133.10.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.11.0.0,133.11.255.255,2501,JP,UTNET The University of Tokyo
+133.12.0.0,133.12.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.13.0.0,133.13.255.255,17960,JP,RAINS-AS University of the Ryukyus
+133.14.0.0,133.17.7.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.17.8.0,133.17.10.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.17.11.0,133.17.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.18.0.0,133.18.255.255,24282,JP,KIR KAGOYA JAPAN Inc.
+133.19.0.0,133.19.255.255,23807,JP,RITSUMEI Ritsumeikan University
+133.20.0.0,133.21.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.22.0.0,133.22.255.255,0,None,Not routed
+133.23.0.0,133.23.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.24.0.0,133.24.223.255,131159,JP,AS-YAMAGATAU Yamagata University
+133.24.224.0,133.24.248.255,131159,JP,AS-YAMAGATAU Yamagata University
+133.24.249.0,133.24.255.255,131159,JP,AS-YAMAGATAU Yamagata University
+133.25.0.0,133.25.255.255,55379,JP,HOSEI-NET Hosei University
+133.26.0.0,133.26.255.255,131919,JP,MEIJI-NET Meiji University
+133.27.0.0,133.27.255.255,38635,JP,KEIO-NET Keio University
+133.28.0.0,133.28.255.255,55380,JP,KAINS Kanazawa University
+133.29.0.0,133.30.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.31.0.0,133.31.255.255,55390,JP,TUSNET Tokyo University of Science
+133.32.0.0,133.32.63.255,2519,JP,VECTANT ARTERIA Networks Corporation
+133.32.64.0,133.32.99.255,0,None,Not routed
+133.32.100.0,133.32.103.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.32.104.0,133.32.109.255,131986,JP,BB4U-NET ITOCHU Cable Systems Corp.
+133.32.110.0,133.32.111.255,0,None,Not routed
+133.32.112.0,133.32.127.255,23630,JP,CAC-NET CAC Inc.
+133.32.128.0,133.32.143.255,2519,JP,VECTANT ARTERIA Networks Corporation
+133.32.144.0,133.32.151.255,0,None,Not routed
+133.32.152.0,133.32.155.255,2519,JP,VECTANT ARTERIA Networks Corporation
+133.32.156.0,133.32.163.255,0,None,Not routed
+133.32.164.0,133.32.167.255,2519,JP,VECTANT ARTERIA Networks Corporation
+133.32.168.0,133.32.171.255,0,None,Not routed
+133.32.172.0,133.32.191.255,2519,JP,VECTANT ARTERIA Networks Corporation
+133.32.192.0,133.32.199.255,131958,JP,T-NET Tama Cable Network Co.,Ltd.
+133.32.200.0,133.32.207.255,0,None,Not routed
+133.32.208.0,133.32.255.255,2519,JP,VECTANT ARTERIA Networks Corporation
+133.33.0.0,133.33.255.255,23615,JP,KUSANAGI University of Shizuoka
+133.34.0.0,133.35.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.36.0.0,133.36.255.255,131981,JP,TAKUSHOKUNET Takushoku University
+133.37.0.0,133.39.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.40.0.0,133.40.255.255,4713,JP,OCN NTT Communications Corporation
+133.41.0.0,133.41.255.255,2506,JP,SUPERCSI NTT WEST CHUGOKU CORPORATION
+133.42.0.0,133.42.255.255,24248,Unknown,AS24248
+133.43.0.0,133.43.255.255,10014,JP,NIHON-U Nihon University
+133.44.0.0,133.46.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.47.0.0,133.47.255.255,17687,JP,NICE National University Corporation Nagoya University
+133.48.0.0,133.49.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.50.0.0,133.50.255.255,7509,JP,HINET Hokkaido University
+133.51.0.0,133.51.255.255,37917,JP,UTINS University of Tsukuba
+133.52.0.0,133.52.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.53.0.0,133.53.255.255,4729,JP,JAEA Japan Atomic Energy Agency
+133.54.0.0,133.54.71.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.54.72.0,133.54.75.255,0,None,Not routed
+133.54.76.0,133.55.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.56.0.0,133.56.99.255,3488,JP,JAXANET Information Systems Department, Japan Aerospace Exploration Agency
+133.56.100.0,133.56.101.255,3488,JP,JAXANET Information Systems Department, Japan Aerospace Exploration Agency
+133.56.102.0,133.56.114.255,3488,JP,JAXANET Information Systems Department, Japan Aerospace Exploration Agency
+133.56.115.0,133.56.255.255,3488,JP,JAXANET Information Systems Department, Japan Aerospace Exploration Agency
+133.57.0.0,133.58.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.59.0.0,133.59.255.255,0,None,Not routed
+133.60.0.0,133.60.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.61.0.0,133.61.255.255,0,None,Not routed
+133.62.0.0,133.63.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.64.0.0,133.64.4.255,38641,JP,LEONET-AS Osaka Sangyo University
+133.64.5.0,133.64.255.255,38641,JP,LEONET-AS Osaka Sangyo University
+133.65.0.0,133.65.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.66.0.0,133.66.255.255,17946,JP,GUCC Gifu University
+133.67.0.0,133.67.255.255,24261,JP,MIE-U Mie University
+133.68.0.0,133.68.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.69.0.0,133.69.159.255,2523,JP,ITRC-NET JSPS 163rd Committee on Internet Technology
+133.69.160.0,133.69.163.255,45688,Unknown,AS45688
+133.69.164.0,133.69.167.247,2523,JP,ITRC-NET JSPS 163rd Committee on Internet Technology
+133.69.167.248,133.69.176.255,45688,Unknown,AS45688
+133.69.177.0,133.69.183.255,2523,JP,ITRC-NET JSPS 163rd Committee on Internet Technology
+133.69.184.0,133.69.184.255,45688,Unknown,AS45688
+133.69.185.0,133.69.255.255,2523,JP,ITRC-NET JSPS 163rd Committee on Internet Technology
+133.70.0.0,133.70.255.255,24268,JP,SAINS National University Corporation Shizuoka University
+133.71.0.0,133.71.255.255,131897,JP,EHIME-U National University Corporation ,Ehime University
+133.72.0.0,133.73.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.74.0.0,133.74.191.255,3488,JP,JAXANET Information Systems Department, Japan Aerospace Exploration Agency
+133.74.192.0,133.74.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.75.0.0,133.75.255.255,9591,JP,NIFS National Institute for Fusion Science
+133.76.0.0,133.76.255.255,0,None,Not routed
+133.77.0.0,133.78.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.79.0.0,133.79.207.255,18087,JP,TOYO Toyo University
+133.79.208.0,133.79.255.255,18087,JP,TOYO Toyo University
+133.80.0.0,133.80.255.255,55904,JP,KOGAKUIN-AS KOGAKUIN University
+133.81.0.0,133.83.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.84.0.0,133.84.255.255,0,None,Not routed
+133.85.0.0,133.86.250.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.86.251.0,133.86.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.87.0.0,133.87.255.255,7509,JP,HINET Hokkaido University
+133.88.0.0,133.88.11.255,18068,JP,ACROSS Dream Wave Shizuoka Co. Ltd.
+133.88.12.0,133.88.19.255,0,None,Not routed
+133.88.20.0,133.88.23.255,131969,JP,SSC-2 Suzuyo Shinwart Corporation
+133.88.24.0,133.88.28.255,0,None,Not routed
+133.88.29.0,133.88.29.255,7506,JP,INTERQ GMO Internet,Inc
+133.88.30.0,133.88.30.255,0,None,Not routed
+133.88.31.0,133.88.31.255,131951,JP,SSC Suzuyo Shinwart Corporation
+133.88.32.0,133.88.47.255,18281,JP,TAC-NET Tokoname New-TV Corporation
+133.88.48.0,133.88.63.255,23778,JP,CANET IMIZU CABLE NETWORK CO.,LTD.
+133.88.64.0,133.88.71.255,17534,JP,NSK NSK Co.,Ltd.
+133.88.72.0,133.88.74.255,0,None,Not routed
+133.88.75.0,133.88.78.255,131950,JP,ENJOYVC EnjoyVC Japan Corporation
+133.88.79.0,133.88.86.255,24259,JP,BC9 kanuma cable television Corporation
+133.88.87.0,133.88.94.255,131923,JP,MCAT Mihara Cable Television Ltd.
+133.88.95.0,133.88.223.255,0,None,Not routed
+133.88.224.0,133.88.255.255,18126,JP,CTCX Chubu Telecommunications Company, Inc.
+133.89.0.0,133.89.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.90.0.0,133.90.255.255,0,None,Not routed
+133.91.0.0,133.91.255.255,23623,JP,CHUO-U Chuo University
+133.92.0.0,133.92.8.255,58647,JP,KAGAWAU-AS Kagawa University
+133.92.9.0,133.92.16.255,58647,JP,KAGAWAU-AS Kagawa University
+133.92.17.0,133.92.18.255,58647,JP,KAGAWAU-AS Kagawa University
+133.92.19.0,133.92.21.255,58647,JP,KAGAWAU-AS Kagawa University
+133.92.22.0,133.92.29.255,58647,JP,KAGAWAU-AS Kagawa University
+133.92.30.0,133.92.61.255,58647,JP,KAGAWAU-AS Kagawa University
+133.92.62.0,133.92.71.255,58647,JP,KAGAWAU-AS Kagawa University
+133.92.72.0,133.92.77.255,58647,JP,KAGAWAU-AS Kagawa University
+133.92.78.0,133.92.93.255,58647,JP,KAGAWAU-AS Kagawa University
+133.92.94.0,133.92.122.255,58647,JP,KAGAWAU-AS Kagawa University
+133.92.123.0,133.92.136.255,58647,JP,KAGAWAU-AS Kagawa University
+133.92.137.0,133.92.179.255,58647,JP,KAGAWAU-AS Kagawa University
+133.92.180.0,133.92.199.255,58647,JP,KAGAWAU-AS Kagawa University
+133.92.200.0,133.92.219.255,58647,JP,KAGAWAU-AS Kagawa University
+133.92.220.0,133.92.245.255,58647,JP,KAGAWAU-AS Kagawa University
+133.92.246.0,133.92.255.255,58647,JP,KAGAWAU-AS Kagawa University
+133.93.0.0,133.93.255.255,0,None,Not routed
+133.94.0.0,133.96.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.97.0.0,133.97.255.255,58652,JP,KOCHI-U-NET Kochi University
+133.98.0.0,133.99.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.100.0.0,133.100.8.255,18148,JP,FUKUOKA-U Fukuoka University
+133.100.9.0,133.100.9.255,63785,JP,FU-NTP Fukuoka University
+133.100.10.0,133.100.10.255,18148,JP,FUKUOKA-U Fukuoka University
+133.100.11.0,133.100.11.255,63785,JP,FU-NTP Fukuoka University
+133.100.12.0,133.100.255.255,18148,JP,FUKUOKA-U Fukuoka University
+133.101.0.0,133.101.255.255,24254,JP,KYOTO-SU Kyoto Sangyo University
+133.102.0.0,133.104.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.105.0.0,133.105.161.255,17944,JP,JWA Japan Weather Association
+133.105.162.0,133.105.255.255,17944,JP,JWA Japan Weather Association
+133.106.0.0,133.106.7.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.106.8.0,133.106.255.255,138384,Unknown,AS138384
+133.107.0.0,133.108.41.255,0,None,Not routed
+133.108.42.0,133.108.43.255,18139,JP,HISOL-CSV Hitachi Solutions, Ltd.
+133.108.44.0,133.108.57.255,0,None,Not routed
+133.108.58.0,133.108.58.255,18139,JP,HISOL-CSV Hitachi Solutions, Ltd.
+133.108.59.0,133.108.60.255,0,None,Not routed
+133.108.61.0,133.108.61.255,18139,JP,HISOL-CSV Hitachi Solutions, Ltd.
+133.108.62.0,133.108.62.255,0,None,Not routed
+133.108.63.0,133.108.63.255,18139,JP,HISOL-CSV Hitachi Solutions, Ltd.
+133.108.64.0,133.109.255.255,0,None,Not routed
+133.110.0.0,133.111.255.255,2497,JP,IIJ Internet Initiative Japan Inc.
+133.112.0.0,133.112.255.255,2522,JP,PPP-EXP Japan Network Information Center
+133.113.0.0,133.113.255.255,0,None,Not routed
+133.114.0.0,133.114.255.255,2527,JP,SO-NET Sony Network Communications Inc.
+133.115.0.0,133.120.255.255,0,None,Not routed
+133.121.0.0,133.121.255.255,17676,JP,GIGAINFRA Softbank BB Corp.
+133.122.0.0,133.122.255.255,0,None,Not routed
+133.123.0.0,133.123.255.255,7522,JP,STCN STNet, Incorporated
+133.124.0.0,133.124.255.255,0,None,Not routed
+133.125.0.0,133.125.255.255,7684,JP,SAKURA-A SAKURA Internet Inc.
+133.126.0.0,133.126.255.255,0,None,Not routed
+133.127.0.0,133.127.255.255,2497,JP,IIJ Internet Initiative Japan Inc.
+133.128.0.0,133.129.255.255,0,None,Not routed
+133.130.0.0,133.130.7.255,58791,JP,GMOOSK-NET GMO Internet,Inc
+133.130.8.0,133.130.8.255,58786,JP,GMOKOR-NET GMO Internet,Inc
+133.130.9.0,133.130.15.255,0,None,Not routed
+133.130.16.0,133.130.127.255,7506,JP,INTERQ GMO Internet,Inc
+133.130.128.0,133.130.255.255,2514,JP,INFOSPHERE NTT PC Communications, Inc.
+133.131.0.0,133.132.255.255,9595,Unknown,AS9595
+133.133.0.0,133.136.255.255,0,None,Not routed
+133.137.0.0,133.137.255.255,2497,JP,IIJ Internet Initiative Japan Inc.
+133.138.0.0,133.139.17.255,0,None,Not routed
+133.139.18.0,133.139.21.255,131893,JP,RICOH-NET RICOH Company, Ltd.
+133.139.22.0,133.139.24.255,0,None,Not routed
+133.139.25.0,133.139.26.255,131893,JP,RICOH-NET RICOH Company, Ltd.
+133.139.27.0,133.139.33.255,0,None,Not routed
+133.139.34.0,133.139.34.255,131893,JP,RICOH-NET RICOH Company, Ltd.
+133.139.35.0,133.139.43.255,0,None,Not routed
+133.139.44.0,133.139.45.255,131893,JP,RICOH-NET RICOH Company, Ltd.
+133.139.46.0,133.139.54.255,0,None,Not routed
+133.139.55.0,133.139.55.255,131893,JP,RICOH-NET RICOH Company, Ltd.
+133.139.56.0,133.139.60.255,0,None,Not routed
+133.139.61.0,133.139.61.255,131893,JP,RICOH-NET RICOH Company, Ltd.
+133.139.62.0,133.139.69.255,0,None,Not routed
+133.139.70.0,133.139.71.255,131893,JP,RICOH-NET RICOH Company, Ltd.
+133.139.72.0,133.139.87.255,0,None,Not routed
+133.139.88.0,133.139.88.255,131893,JP,RICOH-NET RICOH Company, Ltd.
+133.139.89.0,133.139.108.255,0,None,Not routed
+133.139.109.0,133.139.109.255,131893,JP,RICOH-NET RICOH Company, Ltd.
+133.139.110.0,133.139.113.255,0,None,Not routed
+133.139.114.0,133.139.114.255,131893,JP,RICOH-NET RICOH Company, Ltd.
+133.139.115.0,133.139.240.255,0,None,Not routed
+133.139.241.0,133.139.242.255,131893,JP,RICOH-NET RICOH Company, Ltd.
+133.139.243.0,133.139.247.255,0,None,Not routed
+133.139.248.0,133.139.248.255,131893,JP,RICOH-NET RICOH Company, Ltd.
+133.139.249.0,133.139.255.255,0,None,Not routed
+133.140.0.0,133.140.255.255,18097,JP,DCN D.C.N. Corporation
+133.141.0.0,133.141.255.255,0,None,Not routed
+133.142.0.0,133.142.255.255,2497,JP,IIJ Internet Initiative Japan Inc.
+133.143.0.0,133.143.255.255,0,None,Not routed
+133.144.0.0,133.144.71.255,2500,JP,WIDE-BB WIDE Project
+133.144.72.0,133.144.79.255,59109,JP,HITCLOUD Hitachi,Ltd., Managed Services Business Division
+133.144.80.0,133.144.255.255,2500,JP,WIDE-BB WIDE Project
+133.145.0.0,133.145.255.255,2526,JP,HITNET Global Solution 2nd Office. IT Strategy & Digital Integration Division. Hitachi, Ltd.
+133.146.0.0,133.147.255.255,0,None,Not routed
+133.148.0.0,133.148.255.255,10021,Unknown,AS10021
+133.149.0.0,133.149.63.255,4677,JP,PTOP Marubeni OKI Network Solutions Inc.
+133.149.64.0,133.149.79.255,0,None,Not routed
+133.149.80.0,133.149.95.255,9354,JP,TDNC Community Network Center Inc.
+133.149.96.0,133.149.127.255,0,None,Not routed
+133.149.128.0,133.149.190.255,4677,JP,PTOP Marubeni OKI Network Solutions Inc.
+133.149.191.0,133.149.191.255,4677,JP,PTOP Marubeni OKI Network Solutions Inc.
+133.149.192.0,133.149.255.255,2519,JP,VECTANT ARTERIA Networks Corporation
+133.150.0.0,133.151.255.255,0,None,Not routed
+133.152.0.0,133.152.127.255,38634,JP,DWANGO DWANGO Co.,Ltd.
+133.152.128.0,133.152.255.255,17819,SG,ASN-EQUINIX-AP Equinix Asia Pacific
+133.153.0.0,133.153.255.255,4713,JP,OCN NTT Communications Corporation
+133.154.0.0,133.154.255.255,0,None,Not routed
+133.155.0.0,133.155.97.255,7524,JP,HANSHIN ITEC HANKYU HANSHIN CO.,LTD.
+133.155.98.0,133.155.255.255,7524,JP,HANSHIN ITEC HANKYU HANSHIN CO.,LTD.
+133.156.0.0,133.157.255.255,0,None,Not routed
+133.158.0.0,133.158.255.255,17510,Unknown,AS17510
+133.159.0.0,133.159.255.255,2497,JP,IIJ Internet Initiative Japan Inc.
+133.160.0.0,133.161.255.255,0,None,Not routed
+133.162.0.0,133.163.255.255,2510,JP,INFOWEB FUJITSU LIMITED
+133.164.0.0,133.164.255.255,11363,US,FUJITSU-USA
+133.165.0.0,133.165.127.255,0,None,Not routed
+133.165.128.0,133.165.191.255,2527,JP,SO-NET Sony Network Communications Inc.
+133.165.192.0,133.165.255.255,17534,JP,NSK NSK Co.,Ltd.
+133.166.0.0,133.166.255.255,0,None,Not routed
+133.167.0.0,133.167.0.255,9370,JP,SAKURA-B SAKURA Internet Inc.
+133.167.1.0,133.167.21.255,9371,JP,SAKURA-C SAKURA Internet Inc.
+133.167.22.0,133.167.255.255,9371,JP,SAKURA-C SAKURA Internet Inc.
+133.168.0.0,133.168.255.255,0,None,Not routed
+133.169.0.0,133.169.255.255,2497,JP,IIJ Internet Initiative Japan Inc.
+133.170.0.0,133.170.255.255,4713,JP,OCN NTT Communications Corporation
+133.171.0.0,133.172.255.255,0,None,Not routed
+133.173.0.0,133.173.255.255,2497,JP,IIJ Internet Initiative Japan Inc.
+133.174.0.0,133.174.255.255,0,None,Not routed
+133.175.0.0,133.175.255.255,2519,JP,VECTANT ARTERIA Networks Corporation
+133.176.0.0,133.183.95.255,0,None,Not routed
+133.183.96.0,133.183.105.255,18071,JP,MEI1 Panasonic Corporation Corporate Information Systems Company
+133.183.106.0,133.183.106.255,2497,JP,IIJ Internet Initiative Japan Inc.
+133.183.107.0,133.183.159.255,18071,JP,MEI1 Panasonic Corporation Corporate Information Systems Company
+133.183.160.0,133.185.255.255,0,None,Not routed
+133.186.0.0,133.186.15.255,10010,JP,TOKAI TOKAI Communications Corporation
+133.186.16.0,133.186.31.255,131915,JP,WINDE Hamamatsu Cable Television .Inc
+133.186.32.0,133.186.51.255,10010,JP,TOKAI TOKAI Communications Corporation
+133.186.52.0,133.186.63.255,63782,JP,MAOTV Omaezaki Cable Television Co.Ltd
+133.186.64.0,133.186.127.255,131915,JP,WINDE Hamamatsu Cable Television .Inc
+133.186.128.0,133.186.163.255,45974,KR,NHN-AS-KR NHN
+133.186.164.0,133.186.164.255,55629,KR,TMON-AS-KR TMON
+133.186.165.0,133.186.189.255,45974,KR,NHN-AS-KR NHN
+133.186.190.0,133.186.195.255,45974,KR,NHN-AS-KR NHN
+133.186.196.0,133.186.237.255,45974,KR,NHN-AS-KR NHN
+133.186.238.0,133.186.255.255,45974,KR,NHN-AS-KR NHN
+133.187.0.0,133.187.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.188.0.0,133.188.255.255,4729,JP,JAEA Japan Atomic Energy Agency
+133.189.0.0,133.191.255.255,0,None,Not routed
+133.192.0.0,133.192.255.255,2516,JP,KDDI KDDI CORPORATION
+133.193.0.0,133.193.255.255,0,None,Not routed
+133.194.0.0,133.194.255.255,2497,JP,IIJ Internet Initiative Japan Inc.
+133.195.0.0,133.199.255.255,0,None,Not routed
+133.200.0.0,133.209.255.255,2518,JP,BIGLOBE BIGLOBE Inc.
+133.210.0.0,133.214.255.255,0,None,Not routed
+133.215.0.0,133.215.255.255,2497,JP,IIJ Internet Initiative Japan Inc.
+133.216.0.0,133.216.255.255,0,None,Not routed
+133.217.0.0,133.217.255.255,18069,JP,SOFTBANK SB Technology Corp.
+133.218.0.0,133.218.255.255,2497,JP,IIJ Internet Initiative Japan Inc.
+133.219.0.0,133.219.255.255,0,None,Not routed
+133.220.0.0,133.220.255.255,2907,JP,SINET-AS Research Organization of Information and Systems, National Institute of Informatics
+133.221.0.0,133.221.3.255,2497,JP,IIJ Internet Initiative Japan Inc.
+133.221.4.0,133.221.255.255,2497,JP,IIJ Internet Initiative Japan Inc.
+133.222.0.0,133.223.15.255,0,None,Not routed
+133.223.16.0,133.223.87.255,17661,JP,NHN-JAPAN NHN JAPAN Corp.
+133.223.88.0,133.225.213.255,0,None,Not routed
+133.225.214.0,133.225.214.255,10010,JP,TOKAI TOKAI Communications Corporation
+133.225.215.0,133.225.255.255,0,None,Not routed
+133.226.0.0,133.226.15.255,131934,JP,ICC-NET ICC Corporation
+133.226.16.0,133.226.31.255,0,None,Not routed
+133.226.32.0,133.226.47.255,10003,JP,OCT-NET Ogaki Cable Television Co.,Inc.
+133.226.48.0,133.226.48.255,4725,JP,ODN SoftBank Corp.
+133.226.49.0,133.226.49.255,0,None,Not routed
+133.226.50.0,133.226.51.255,131928,JP,IPP-NET Tottori Teletopia Co., Ltd.
+133.226.52.0,133.226.55.255,23822,Unknown,AS23822
+133.226.56.0,133.226.95.255,7524,JP,HANSHIN ITEC HANKYU HANSHIN CO.,LTD.
+133.226.96.0,133.226.127.255,0,None,Not routed
+133.226.128.0,133.226.128.255,4725,JP,ODN SoftBank Corp.
+133.226.129.0,133.226.129.255,0,None,Not routed
+133.226.130.0,133.226.131.255,131928,JP,IPP-NET Tottori Teletopia Co., Ltd.
+133.226.132.0,133.226.135.255,131943,JP,GOTO-TV Goto tv
+133.226.136.0,133.226.136.255,4725,JP,ODN SoftBank Corp.
+133.226.137.0,133.226.159.255,0,None,Not routed
+133.226.160.0,133.226.175.255,17958,JP,KCV Kasaoka Cable Vision Co,LTD.
+133.226.176.0,133.226.183.255,131958,JP,T-NET Tama Cable Network Co.,Ltd.
+133.226.184.0,133.231.255.255,0,None,Not routed
+133.232.0.0,133.232.31.255,7682,JP,HOTNET HOKKAIDO TELECOMMUNICATIONS NETWORK Co., Inc.
+133.232.32.0,133.232.63.255,0,None,Not routed
+133.232.64.0,133.232.255.255,2514,JP,INFOSPHERE NTT PC Communications, Inc.
+133.233.0.0,133.235.255.255,0,None,Not routed
+133.236.0.0,133.236.255.255,2497,JP,IIJ Internet Initiative Japan Inc.
+133.237.0.0,133.237.33.255,23820,Unknown,AS23820
+133.237.34.0,133.237.248.255,23820,Unknown,AS23820
+133.237.249.0,133.237.255.255,23820,Unknown,AS23820
+133.238.0.0,133.238.63.255,2497,JP,IIJ Internet Initiative Japan Inc.
+133.238.64.0,133.238.127.255,131958,JP,T-NET Tama Cable Network Co.,Ltd.
+133.238.128.0,133.238.255.255,2497,JP,IIJ Internet Initiative Japan Inc.
+133.239.0.0,133.239.255.255,0,None,Not routed
+133.240.0.0,133.240.255.255,7687,JP,D-CRUISENET TOYOTA DIGITAL CRUISE.INCORPORATED
+133.241.0.0,133.241.255.255,0,None,Not routed
+133.242.0.0,133.242.255.255,7684,JP,SAKURA-A SAKURA Internet Inc.
+133.243.0.0,133.243.255.255,9355,JP,NICT National Institute of Information and Communications Technology
+133.244.0.0,133.244.255.255,0,None,Not routed
+133.245.0.0,133.245.255.255,2497,JP,IIJ Internet Initiative Japan Inc.
+133.246.0.0,133.246.255.255,0,None,Not routed
+133.247.0.0,133.247.71.255,131918,JP,SCN-NET SHONAN CABLE NETWORK
+133.247.72.0,133.247.72.255,59123,JP,KAKAKUCOM Kakaku.com, Inc.
+133.247.73.0,133.247.79.255,0,None,Not routed
+133.247.80.0,133.247.89.255,4675,JP,U-NETSURF UNIADEX, LTD.
+133.247.90.0,133.247.91.255,10004,JP,AS-PHOENIX-J JIN Office Service Inc.
+133.247.92.0,133.247.99.255,0,None,Not routed
+133.247.100.0,133.247.103.255,10004,JP,AS-PHOENIX-J JIN Office Service Inc.
+133.247.104.0,133.247.111.255,59093,JP,ICKNET IMABARI CATV CORPORATION
+133.247.112.0,133.247.127.255,131952,JP,POTATO-NET Asahikawa Cable Television Co., Ltd.
+133.247.128.0,133.247.135.255,10004,JP,AS-PHOENIX-J JIN Office Service Inc.
+133.247.136.0,133.247.143.255,131923,JP,MCAT Mihara Cable Television Ltd.
+133.247.144.0,133.247.159.255,131949,JP,ASO-NET General Incorporated Foundation Aso Telework Center
+133.247.160.0,133.247.231.255,0,None,Not routed
+133.247.232.0,133.247.234.255,10004,JP,AS-PHOENIX-J JIN Office Service Inc.
+133.247.235.0,133.247.235.255,4675,JP,U-NETSURF UNIADEX, LTD.
+133.247.236.0,133.247.239.255,131955,JP,KCNET Kyoutou Cable Net Co Ltd
+133.247.240.0,133.247.255.255,131923,JP,MCAT Mihara Cable Television Ltd.
+133.248.0.0,133.248.255.255,0,None,Not routed
+133.249.0.0,133.249.255.255,17947,JP,S-UTOPIA SAKURA KCS Corporation.
+133.250.0.0,133.250.7.255,59118,Unknown,AS59118
+133.250.8.0,133.250.127.255,0,None,Not routed
+133.250.128.0,133.250.175.255,9357,JP,FNC NRI SecureTechnologies, Ltd.
+133.250.176.0,133.250.249.255,9357,JP,FNC NRI SecureTechnologies, Ltd.
+133.250.250.0,133.250.255.255,9357,JP,FNC NRI SecureTechnologies, Ltd.
+133.251.0.0,133.252.255.255,0,None,Not routed
+133.253.0.0,133.253.255.255,2516,JP,KDDI KDDI CORPORATION
+133.254.0.0,133.254.255.255,2497,JP,IIJ Internet Initiative Japan Inc.
+133.255.0.0,133.255.255.255,0,None,Not routed
