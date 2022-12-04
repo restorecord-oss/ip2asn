@@ -51,6 +51,9 @@ router.get("/ip/:ip", verifyCache, async(req, res) => {
     let country_code = "";
     let AS_description = "";
 
+    // check if db/${firstNum}.csv exists if not return error
+    if (!fs.existsSync(`db/${firstNum}.csv`)) return res.status(404).send({ success: false, message: "IP not found" });
+
     fs.createReadStream(`db/${firstNum}.csv`)
         .pipe(csv())
         .on("data", (row) => {
