@@ -24,8 +24,8 @@ app.use((err, req, res, next) => {
     res.status(status).send({ message: err.message });
 });
 
-server.listen(8080, () => {
-    console.log("Server started on port http://127.0.0.1:8080");
+server.listen(80, () => {
+    console.log("Server started on port http://127.0.0.1:80");
 });
 
 
