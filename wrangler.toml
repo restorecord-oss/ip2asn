@@ -1,0 +1,4 @@
+name = "ip2asn"
+main = "src/index.ts"
+compatibility_date = "2022-12-04"
+node_compat = true

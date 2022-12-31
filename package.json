@@ -1,35 +1,38 @@
 {
-  "name": "ip2asn",
-  "version": "1.0.0",
-  "description": "",
-  "main": "src/app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/restorecord/ip2asn.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/restorecord/ip2asn/issues"
-  },
-  "homepage": "https://github.com/restorecord/ip2asn#readme",
-  "dependencies": {
-    "cookie-parser": "^1.4.6",
-    "csv-parser": "^3.0.0",
-    "dotenv": "^16.0.3",
-    "express": "^4.18.2",
-    "fs": "^0.0.1-security",
-    "http": "^0.0.1-security",
-    "memory-cache": "^0.2.0",
-    "node-cache": "^5.1.2"
-  },
-  "devDependencies": {
-    "eslint": "^8.29.0",
-    "eslint-config-prettier": "^8.5.0",
-    "nodemon": "^2.0.20"
-  }
+	"name": "ip2asn",
+	"version": "1.0.0",
+	"description": "",
+	"main": "src/app.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/restorecord/ip2asn.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/restorecord/ip2asn/issues"
+	},
+	"homepage": "https://github.com/restorecord/ip2asn#readme",
+	"dependencies": {
+		"@types/axios": "^0.14.0",
+		"axios": "^1.2.0",
+		"csv-parser": "^3.0.0",
+		"dotenv": "^16.0.3",
+		"fs": "^0.0.1-security",
+		"hono": "^2.5.7",
+		"node-cache": "^5.1.2"
+	},
+	"devDependencies": {
+		"@cloudflare/workers-types": "^4.20221111.1",
+		"eslint": "^8.29.0",
+		"eslint-config-prettier": "^8.5.0",
+		"nodemon": "^2.0.20",
+		"typescript": "^4.9.3",
+		"wrangler": "^2.5.0"
+	}
 }
